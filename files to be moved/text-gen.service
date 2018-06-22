@@ -1,0 +1,14 @@
+[Unit]
+Description=uWSGI instance to serve myproject
+After=network.target
+
+[Service]
+User=demmojo
+Group=www-data
+WorkingDirectory=/home/demmojo/portfolio/text-gen-flask/app
+Environment="PATH=/home/demmojo/portfolio/myprojectenv/bin"
+ExecStart=/home/demmojo/portfolio/myprojectenv/bin/uwsgi --ini app.ini
+
+[Install]
+WantedBy=multi-user.target
+
