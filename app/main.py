@@ -68,9 +68,9 @@ class textrnn:
 def load_model():
     """Loads pre-trained model weights, vocabulary file and configuration."""
     global model
-    model = textrnn(weights_file_path='models/nazim/nazim_weights.hdf5',
-                    vocab_file_path='models/nazim/nazim_vocab.json',
-                    config_file_path='models/nazim/nazim_config.json')
+    model = textrnn(weights_file_path='models/model_weights.hdf5',
+                    vocab_file_path='models/model_vocab.json',
+                    config_file_path='models/model_config.json')
 
 
 @app.route("/", methods=["GET", "POST"])
