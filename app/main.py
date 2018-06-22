@@ -74,16 +74,15 @@ def load_model():
 
 
 @app.route("/", methods=["GET", "POST"])
-@app.route("/index", methods=["GET", "POST"])
 def get_index():
     """Takes input from user and returns generated text."""
     if request.method == 'POST':
         load_model()
         user_input = request.form['prefix']
         generated_string = model.generate(prefix=user_input)
-        return render_template('/nazim.html', generated_string=generated_string)
+        return render_template('/index.html', generated_string=generated_string)
     else:
-        return render_template('/nazim.html')
+        return render_template('/index.html')
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000, debug=True, threaded=False)
