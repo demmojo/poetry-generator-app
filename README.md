@@ -91,8 +91,13 @@ This will allow Ubuntu to automatically start uWSGI and serve our Flask applicat
 ```
 sudo nano /etc/systemd/system/text-gen.service
 ```
+Make sure to start the service you have just created and allow it to run at startup:
+```
+sudo systemctl start text-gen.service
+sudo systemctl enable text-gen.service
+```
 
-Copy the text in the text-gen.service file found in the directory 'files to be moved' and paste it. Make sure to change any values specific to your own project and server/PC directory paths.
+Copy the text in the file found in the directory 'files to be moved' and paste it. Make sure to change any values specific to your own project and server/PC directory paths.
 
 ### Configure Nginx and place in the following directory: /etc/nginx/sites-available
 
@@ -112,10 +117,10 @@ sudo ln -s /etc/nginx/sites-available/myproject /etc/nginx/sites-enabled
 
 Test for syntax errors:
 ```
-nginx -t
+sudo nginx -t
 ```
 
-If it returns a successful response then restart the Nginx process:
+If it returns a successful response then restart the Nginx process as well as the uWSGI service you made earlier:
 ```
 sudo systemctl restart nginx
 ```
