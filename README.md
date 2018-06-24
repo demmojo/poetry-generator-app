@@ -100,7 +100,7 @@ We will configure Nginx so that it will pass web requests to the socket file in 
 
 First we will create a server block configuration file:
 ```
-sudo nano /etc/nginx/sites-available/myproject
+sudo nano /etc/nginx/sites-available/text-gen
 ```
 
 Copy the text in the 'text-gen.txt' file found in the directory 'files to be moved' and paste it. Make sure to change any values specific to your own project, server IP and server/PC directory paths.
