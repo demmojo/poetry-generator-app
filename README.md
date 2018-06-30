@@ -112,7 +112,7 @@ Copy the text in the 'text-gen.txt' file found in the directory 'files to be mov
 
 To enable the Nginx server block configuration we've just created, link the file to the sites-enabled directory:
 ```
-sudo ln -s /etc/nginx/sites-available/myproject /etc/nginx/sites-enabled
+sudo ln -s /etc/nginx/sites-available/text-gen /etc/nginx/sites-enabled
 ```
 
 Test for syntax errors:
