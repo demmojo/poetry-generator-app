@@ -1,1 +1,0 @@
-{"rnn_bidirectional": true, "rnn_layers": 4, "rnn_size": 128, "input_length": 40, "max_words": 10000, "input_dim": 300, "train_size": 0.8, "max_gen_length": 300}
