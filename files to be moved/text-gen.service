@@ -6,8 +6,8 @@ After=network.target
 User=demmojo
 Group=www-data
 WorkingDirectory=/home/demmojo/github/text-gen-flask/app
-Environment="PATH=/home/demmojo/github/myprojectenv/bin"
-ExecStart=/home/demmojo/github/myprojectenv/bin/uwsgi --ini app.ini
+Environment="PATH=/home/demmojo/github/textgenenv/bin"
+ExecStart=/home/demmojo/github/textgenenv/bin/uwsgi --ini app.ini
 
 [Install]
 WantedBy=multi-user.target
