@@ -48,14 +48,14 @@ cd ~/myproject
 
 Create a virtual environment to store our Flask project's Python requirements by typing:
 ```
-virtualenv myprojectenv
+virtualenv textgenenv
 ```
 
-This will install Python and pip into a directory called myprojectenv. 
+This will install Python and pip into a directory called textgenenv. 
 
 Then we will activate the virtual environment so as to install necessary packages.
 ```
-source myprojectenv/bin/activate
+source textgenenv/bin/activate
 ```
 
 ### Install Packages
