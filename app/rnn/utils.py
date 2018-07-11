@@ -25,7 +25,7 @@ def sample(predictions, temperature):
     return index
 
 
-def generate(model, vocab, indices_char, prefix=None, temperature=0.3, input_len=50, meta_token='<s>',
+def generate(model, vocab, indices_char, prefix=None, temperature=0.5, input_len=50, meta_token='<s>',
              max_length_gen=500):
     """Generates and returns a single text."""
 

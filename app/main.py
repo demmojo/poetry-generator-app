@@ -40,7 +40,7 @@ class textrnn:
             self.model = chargen_model(self.num_of_classes, cfg=self.config, weights_filepath=weights_filepath)
             self.char_indices = dict((self.vocabulary[c], c) for c in self.vocabulary)
 
-    def generate(self, n=1, prefix=None, temperature=0.5, max_length_gen=1000):
+    def generate(self, n=1, prefix=None, temperature=0.75, max_length_gen=1000):
         """Calls generate function from rnn.utils.py which generates and returns a single text."""
 
         for _ in range(n):

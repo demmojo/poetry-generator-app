@@ -1,0 +1,1 @@
+{"rnn_layers": 4, "rnn_size": 64, "input_length": 75, "bidirectional": true, "embedding_dims": 125, "name": "shakespeare"}
