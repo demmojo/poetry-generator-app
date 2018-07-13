@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name nazim.mohamedabdulaziz.com;
+    server_name mevlana.mohamedabdulaziz.com;
     
     location / {
         include uwsgi_params;
