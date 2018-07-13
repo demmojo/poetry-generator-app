@@ -1,0 +1,729 @@
+Using TensorFlow backend.
+Training a Bidirectional LSTM model with 3-layers each with 128 cells
+Training a new model...
+GPU is available...
+GPU is available...
+GPU is available...
+{' ': 1, 'a': 2, 'e': 3, 'i': 4, 'n': 5, 'r': 6, 'l': 7, 'd': 8, 'ı': 9, 'k': 10, 'u': 11, 'm': 12, 't': 13, 's': 14, 'y': 15, 'b': 16, 'ü': 17, ',': 18, 'o': 19, '.': 20, 'ş': 21, 'h': 22, '\n': 23, 'z': 24, 'g': 25, 'v': 26, 'ö': 27, 'ğ': 28, 'c': 29, 'ç': 30, 'p': 31, 'f': 32, 'â': 33, 'B': 34, 'A': 35, '!': 36, '’': 37, 'H': 38, 'S': 39, '?': 40, 'O': 41, '“': 42, 'K': 43, '”': 44, 'E': 45, ';': 46, 'M': 47, 'Y': 48, 'D': 49, 'F': 50, ':': 51, 'İ': 52, 'G': 53, 'N': 54, 'T': 55, 'P': 56, 'Ş': 57, 'Ç': 58, '…': 59, 'î': 60, 'û': 61, 'C': 62, 'Z': 63, 'Ö': 64, 'R': 65, 'Â': 66, '"': 67, "'": 68, 'V': 69, '-': 70, '(': 71, ')': 72, 'L': 73, 'U': 74, 'j': 75, 'Ü': 76, '*': 77, 'I': 78, '–': 79, '‘': 80, '—': 81, 'Ğ': 82, 'ű': 83, '\ufeff': 84, '^': 85, 'Î': 86, 'é': 87, 'Û': 88, '}': 89}
+Training on 1,534,009 Character sequences.
+Epoch 1/100
+  90/2996 [..............................] - ETA: 29:46 - loss: 4.25942996/2996 [==============================] - 1860s 621ms/step - loss: 3.1202 - val_loss: 1.9182
+####################
+Temperature: 0.3
+####################
+ kalından karaların de bu de sahat adam karar bir karaların atla bir ki al kapıl değil.
+Bu akal görününde de bir karan karara bir ayak olan karar bir görürürür, bakıl de doğan düştür.
+Bu sahar değil.
+Bu karar de de ona yapararak ki haral karara bir karan görürür.
+Bir karar gibi kimin kaparında bu halemesinden karara da bu karaların adam değil. Değildir.
+Bu karar da gibi insan o karara bir yapandan başlayan bir da arasından bir kadar bir de kadar sana bir düştü.
+
+####################
+Temperature: 0.6
+####################
+k edim ki minde bura da mahatın âleme namanın gelirsin kalkıl, erinde gibi kalan etmez yaraları gibi olur durayan karıl alça bir kim sahat arak sabahla bulan görürsün. Bir olur.
+Bu kedini akmak verdi akıl gibi gibi vürü ansanı gününde tarat dedi. Çinin etmiş içinde karetı vardır. Bir varda kararar. Hadar her anların bir düştü... yapatlara korşa bir ki kardın fakişinden doğanmaz.
+Dedim; yanın yaraçını görününde de de bir yüzünden yarara bir ama görüründe bir sarhoş eder.
+
+####################
+Temperature: 1.0
+####################
+ dedi.
+Anllah hüz “Bar bu, bir kesticen hüz süfdü ol gitmiştir... güngürezin, sabahp’ı, boşluğuman anla suf kötü düşkünü yolmaz adam, arnez güzür, da kap allara Konuş kala karkar.
+Görlüne, sahsa “Şâvıtmış da İstağın mu ihrazanı haykas korda bu esçan aşla yürü hır zayilik verdi, benim da mürağ sevirse iskel bir de giibi duma!” Keni düşül mu örresini virsından karmasısın girdilnim kenem yok, müştâmesizlık içende bağır, harar. kila!
+
+Epoch 2/100
+  59/2996 [..............................] - ETA: 27:53 - loss: 1.91522996/2996 [==============================] - 1854s 619ms/step - loss: 1.6422 - val_loss: 1.5126
+####################
+Temperature: 0.3
+####################
+ altına gelmiştir.
+Bu yandan da kör görünüşün senin değilsin.
+Ey elinde bu suretle bir suretlerin ayağının işinin görünüşün değilsin.
+Bu suretlerin hakkında da onun içinde bir şey değilsin.
+Ey ana kendine gelir.
+Bu ne de onun için görünüşün değildir.
+Bu halde kendini kadar girmez diye haberi verir.
+Gönül de onun içinde başka bir şey değil.
+Her şey de onun için karşı kararır.
+Bu adam elinde de onun için keremin neden gelir.
+Görünüşe kadar çekinmiş olur.
+
+####################
+Temperature: 0.6
+####################
+ de daha iyidir.
+Ben de gündüzün kaderini attın. Birinin halbuki ile yapında pek daha iyi kadar geldi” dedi.
+Bu neşeye daha görünür, başını inatmaz, o elinin kararıyorsun? Senin delik ve gündüz hayalin içinde bilgiyse cehennem ki kötü de sonra sen akıl olur.
+Sonra bir hale getirmeyeceğim.
+Senin hikâyesidir.
+Bu yine kadar yok!
+Kadın derdi olmuştur.
+Ekmek, hakikatte karşı ayağı katar.
+Ey kendine gelenlerin hiçbir sevgilinin sözünü müsükür vermeyen kişiler deniz verdi, cebrail gelmez.
+
+####################
+Temperature: 1.0
+####################
+ ademden oynayacaklar, tükür gün bilgisiz ovada, böyle bir şey, yine cüzi kızgmızın neden giriş içmiş olmuş ihtiyar, senin eylası gerek doğdu. O kimden uyuyanda, adamın elindeki oldu. Senin işimiz cilvenin üsküldedir. Yolda elbise olduğu hiçbirinci keremi nasıl attım... bize niyet etmek içinde câhennem nurunun taş, koku elden ekmek gitti.
+Gevinçmişlerin coşur,işinin yapandan Tecellilsizdir, kinsiydi, işka doğar.
+
+Epoch 3/100
+  59/2996 [..............................] - ETA: 27:46 - loss: 1.48632996/2996 [==============================] - 1855s 619ms/step - loss: 1.4756 - val_loss: 1.4515
+####################
+Temperature: 0.3
+####################
+selilisinin sözlerini kaldırmak için yapmak için kurtulur.
+Bu söz kuvvetin sonunda bir koku görürse bile onun sana görürse bu söz söylerse o kadar kendinden sonra da elbisesinden de bir söz söyler.
+Ey ben de sana sallâllahu bir halde onun meydana getirir.
+Bu söz de sana bir devlet ve hayalden kurtulur da söyle.
+Bu sözü sorara bağlanmak için bu sözlerini kurtulan dileğini anlatır. Senin nazirini bile onun için senin altından da ayak döker.
+Bir sofi bir halde bu suretle alışveriştir.
+
+####################
+Temperature: 0.6
+####################
+lâm’ın, Kur'an’ın bir tek yüzlüklerinin yüzünden başka bir şey dilemesi
+Zaman adamlar değilsin... bir defineyi gören o tek tövbeyi lâfinin can kuşluk sana mensuptur.
+Allah’nın ağlayıp su gibi yazdırıp duran, koşmak isterse bilmemesini görünce padişahların sesinin fazla sırrına kanında bile alırıp Hakk’a gitti.
+Allah suyun satın yüzünden de ileriye gider.
+Bu söz söylediğim ki eşek gelip “ Hiçbir sidik, sensin!
+
+####################
+Temperature: 1.0
+####################
+sanına isteyenden artıklarını gördü. Bu ayar… sakın bizim
+yolda Senin toz zemrelden önce sofradan eşsizlikte ikilik, secde ediyorum ; çok yol bil ki o visile kokazına bakma. Nuru, bu şarap, onun fitidasından sana hiçbiri de
+ummadan çocuk çekip durdu da yoktur; kıyamet gördün, gül aklından
+çıkmıştır.
+Davet, “ Gönlenin sallâlinin padişah sudur. Senin nefis, sana candan üstü ekişime gidiverdi.
+Asılda rızak, efendivsi; kötü bu.
+
+Epoch 4/100
+  60/2996 [..............................] - ETA: 27:44 - loss: 1.42712996/2996 [==============================] - 1850s 617ms/step - loss: 1.4204 - val_loss: 1.4150
+####################
+Temperature: 0.3
+####################
+’a delili olur.
+Halbuki o tarafından bu suretle de dertlendirir, ayaklarını da bu kadehin yanında yüzünü görürsün diye bu tarafa vardır.
+Dedi ki: “ Halil bir adam bir yandan alışveriş gibi hayran olmazsın.
+Ey güzellik dedi ki: “ Halil ederek yaptım, halk dedi ki: “ Halkın başına gitmekteydi. Adam olursa o kadınların akıllı kişiye benzer.
+Allah için bu kötü kadının aleyhisselâm’ın yanında da seni karar dedi.
+Adam “ Kadın dedi ki: “ A kadehin yaratılışı gibi altın olmayan bir şey değildir.
+
+####################
+Temperature: 0.6
+####################
+lâ”
+Hak’tan alet veriyorsun ama benim gibi verdi, dert vardır.
+Ah gelip eğirimin malı, sesi, bu haseti gelir, gülüp durmağa kadar feryat eder, yarısını almaya atmaktaydı.
+Diken yaptım diye kaderdir, ne kulak ister durursan senin nasıl olur da yüzünü kötülükten kurtulur, yaratıldı demektir.
+Kuru gönül de gelip durmakta, yahut da anasına karşı ihtiyale oldun.
+Karanlıkta bulunuyorsun? Hepsi bir iş yaptığın yolunu görünce Neden bundan sonra üstün olur!
+
+####################
+Temperature: 1.0
+####################
+
+Üvesi ferahlık âlemi buluverebileyim”
+”Ona hemeandan dua kavşak yedi ve nur dalı varsa gelip gitmişse günü yine armıyorsun ya… tenimler kasdete düşüyordu.Az deyip duruyorsun?
+İster o tatlık yüzünü aldı...n kaç! Cesed... hayır mülkü, eri parlatırsam, hud varır?
+Musa’nın çayırlı, sen daha kafrıyı beklemeyi davulumun halinde oldular diye gani.
+Doğru sayersen goruma yavaş ekmeği anda bu yüce misal, bizi iyiyi bolanın böşüğün esilin
+zehur iplerinde!
+
+Epoch 5/100
+  58/2996 [..............................] - ETA: 27:46 - loss: 1.36822996/2996 [==============================] - 1852s 618ms/step - loss: 1.3861 - val_loss: 1.3982
+####################
+Temperature: 0.3
+####################
+ değil!
+Bir an da senin sarhoşunu gördün mü kaybolur, karşılık alır, onun gibi değil.
+Bu suretle bu kara ve kadın da kendisinden kurtulur, ne dirilirsin?
+Bu sözlerini kaydını kayboldu, bu sabah olur, bu kadar yüzünü örtülükten başka bir şey olmaktaydı.
+Kara adamın ayıplarını açık da bu yüzden de halk kokusu bir kara kalmaz.
+Bir an gönlün içinde bu kara yüzünden kan dökmekteydi. Ben senin sarhoşluğunu açık yeri gösteriyor.
+
+####################
+Temperature: 0.6
+####################
+!
+O, bu ağaç güzelliğin sevgilisini öğüt verir, bunu söyleyen sözler sahibi bir şey sokar.
+Yoksa o an dünya aydınlanırsa ve tevile yüzünden de bu iki kara ölü de kara dört olan kişinin de dibini alındı!
+Ben bulunduğundan işi kaybetti de o küllü adamın şeyleri âşıkar olur.
+Ben kimse de sarhoş olursun; ölüm ve sahipleri keserim. Ne kadının aklından bir yol kurtarırsın?
+Yoksullar geldi, içtiğimiz alır, ona testi, her yağmur da bir ,başka bir şey değildir, benim kan gibi geçirsin!
+
+####################
+Temperature: 1.0
+####################
+sun.
+O, kendi eline geldiğimi vardır, senin bizim kuru, öbürli yüzünden bir zanna bize kınıyorsun, bak.
+Birisine ait olan temizler için sevgilimiz ve o güzellerin dâvasının ağacın da.
+Değişir sözü hesâm var? Bu bahun yanar, çalıştı, rengi gerektir.
+Bir puta, seni, sonra isti olmayan kişiyiz. Sake, geçti! Hattâ bu âlem de içinde, cinsmı ile atar. Bu dünyadan yüz binlerce hayat, onu  sonunda en yedi a taktı da burada!
+
+Epoch 6/100
+  60/2996 [..............................] - ETA: 27:48 - loss: 1.34502996/2996 [==============================] - 1853s 619ms/step - loss: 1.3618 - val_loss: 1.3826
+####################
+Temperature: 0.3
+####################
+ de onu da görünür.
+Bu suretle de senin gibi seni kapıp duracak bir kapı açar, kararmaktayız.
+Bu gözün kan kaldı, bu güneşin kanını görünce sana karşı kaldı.
+Bu kadarın devrini gördün de ancak gözünü kapatırsın. Bu güneşin kan diyetini kapadı.
+Ne yaptıklarını bilen kişilerin evine karşı kararmaktayız.
+Bu güneşin gözüne karşı köpek gibi görünür. Çünkü onun için de kendisine bak!
+Bu halde kendine gel, onun canı görünce kanatla anlatılan karanlıktan almaktan kurtuluşunu kapamaz.
+
+####################
+Temperature: 0.6
+####################
+ ancak kara ve kadar almanın da kararını sormaktayız” dedi.
+Bu deniz karanlıkta olursa amellerin testisidir. Çünkü bu yüzden kurtuluş kalbinden kaçtı; kendi kendisinden kaldırdı.
+Resme hayat kokusu için dedi ki: “ Bu sırrını altın da onun gibi bu kurtlarının kanını gördü.
+Ne başka bir kalın canın kanatlarını giderse bu suretle tek göklere düşmüştür.
+Sen bir kıt gelince: Buna bu iş, gül bahçesi, seni azalttır.
+Nur gelen bu evin kabiliyet altınları ekin eline gelir, gelinlere buna bak!
+
+####################
+Temperature: 1.0
+####################
+ de âşıklardan vazgeçerek oturur. Rahmeti yoktu, yıldızlar
+kölesidir bu kadar gönülere neşe vermez!
+S. , B. : Fakat hicap uzun, konuk geldi. Halbuki ne basırlarda dikilmek için topraktan başakilen kulağı gördü.
+Rengen o güzelliğin yeşi onun az kişilerin kötü defa vardır. Havada fikir vardı,ona tutmuştur.
+Bir taşi dedi. Keşke, kardeşle “O sefer ve eşek, güzel bir tuzağa sahip olurlar!
+Bir gün evi, ona “ Bin eşektir. Yaprab’ın yücesi ölü kurtuluşuna pervane verir, ona “
+
+Epoch 7/100
+  56/2996 [..............................] - ETA: 27:53 - loss: 1.30832996/2996 [==============================] - 1855s 619ms/step - loss: 1.3432 - val_loss: 1.3731
+####################
+Temperature: 0.3
+####################
+ ki.
+Bu suretle de kötü bir tarafa gitti. Çünkü onun için bir şey gören bir şey değildir.
+Kadın dedi ki: “ Ey derhal o güzel ve senin bir hayale benzer.
+Kaderin birine sebep olmayan aslanın hakikatine bir şey verir, bir adam kalmasın.
+Bir kadın “ Sana bir kişi bir şey değilsin de kalplerinden de onu geçirir.
+Bu sözün hayalini bilir mi? Sen, bu sözün azabına benzer. Sen de bir tarafa girişirsin.
+Bir kuşun gibi senin bir karanlıklardan bir katre yapmaya kalkışmaz ki.
+
+####################
+Temperature: 0.6
+####################
+. Ben senin hayale elde etmek üzere görünmez.
+Neden kendini yüzümü yakalım, köpeğin her kadar duygularına düşmüş, ne diye ağlarsın.
+Ne hayat vermek için elem ile yaratılır, senin hiç kadının müminleri güzel padişahın başına sığmaz
+kalır, bir tavşan yerinde verdi.
+Ben suyumuz şimdi geçememiştim, yalnız gibi gelince geçimine bakınız.
+Sen, istersen “ Yarabbi, seni altın geliyorum. Çünkü senin haberi bile yapma!” dediler.
+
+####################
+Temperature: 1.0
+####################
+. Çünkü o sözün ki onun zevkinin gönlünce ona götürür mi?
+Çünkü niceye, sunayı der de sana bu kopaz kazanç burcunu yüzünden değildir.
+Rızk, padişahta şu uyanıkça güzel güzel onun için kuvvet et, defet kesiyorlar.
+İki sas misk renkte . Can devrine mezhetmeyemezsen, aslan oldu.
+Kendi ölüye yetişecek olunca kahrını kapar, nihayet başına arka boyalar ne yapar, göründü. Şu halde uyumazsa sararır.
+
+Epoch 8/100
+  62/2996 [..............................] - ETA: 27:47 - loss: 1.29222996/2996 [==============================] - 1853s 618ms/step - loss: 1.3269 - val_loss: 1.3663
+####################
+Temperature: 0.3
+####################
+.
+Sen de senin gözünü bir kulak sanıyorsun, kendisini görür. Onların hepsini görünce bu yüzden yerden başka bir şey değildir.
+Bu suretle belâya gitmek için bir hayli bir gün geldi. Bu sözü yaptıklarını yırtarak yok, yahut da kendisini yere gitti.
+Sen de bu sözün sonu yoktur. Onların cezasını daha iyi bilir.
+Senin bu sözü de bir anlayışta bulunduğunu bilen o yarattıkları yerden gelmez.
+Bu kadar yüzünü görünce o kadar bu kadar gelince de bir iş yaptı, aramasından bir kuşun daralır.
+
+####################
+Temperature: 0.6
+####################
+ mı?
+Gözü geldi mi yürü, parlak bir hale gelir. Bu bilgileri gör de düşman olarak dönerler.
+Ey varlıkların bu kadar güneştir, gözleri başında bulunan aklı hoş gibi bu sırrını sever.
+Bu yüzden bir akılların Allah’ya yakın yarısına düştü.
+Dağlardan beri de kanat çırpıyorum... aklından o yüce bir başına oturmuştuk.
+Ancak bu suretle burada yeni bir nişane yoktur. Yürü, yokluktan daha fazla görünür.
+
+####################
+Temperature: 1.0
+####################
+!
+O gâyri açıklara denize o vazın oğlandan gelir; suyu açar, dökür ama bir diye düşkün dilenmeden bunu şimdi sesi olmalarından cennette tesir edeceğini elbe sıkıntıdır.
+Çünkü ölü yünü terk et! Eskici cömertliklere sahip olan bir ateş yazmak için hale gelirler de
+hoşlarla dikergi Sesli söyler, kabul ettirmek için ebed” demesi
+Ey muhalif de gelsin de gelip sarhoş devesi, dar “elem aralarındaki ipi ana kılıcı, beni uyumuyorum diye beylere fedelerini!
+
+Epoch 9/100
+  60/2996 [..............................] - ETA: 27:47 - loss: 1.29712996/2996 [==============================] - 1849s 617ms/step - loss: 1.3142 - val_loss: 1.3600
+####################
+Temperature: 0.3
+####################
+z.
+Bu işi bu sözler yüzünden de bir adam olan bir kara sahibi olmayan bir de sana hayat verdi.
+Ey kadın, bu sözün davudu da bir an olsun, onun yaptığı işte bu kadar her yandan da onun altına gelir.
+Sen bu aramakla dolu bir kuş gibi görünür ki bu sözün sonu gelmez.
+Bu suretle de benim de benim yüzümü görürsen bile bizim yaralanmasın.
+Sen de benim düşmanım dedi ki: “ Ey kerem sahibi olan bir kara bile olsa bile geçtim.
+Ben, benim gönlümüzde bir yol bulunmak için bir yaprağım da bizim bile gelir.
+
+####################
+Temperature: 0.6
+####################
+!
+Bu halde ne vakit kafana doğru yollar, elini yüzüne kalkışma. Bu yüzden kendine gel.
+Kalkıp yanar, onun için bir adam gönül kadın, pek karışmasından ne çözer var?
+Ben, sen bu devenin yanında yanlış kızgınlığından öncümüyor muydun mu ki?
+Dağlar yüzünden de işte yabancı bir koca devlet görünüşte yaşamak isterse aşkı görünür.
+Halbuki o adamın mahrem gözünü ele geldi. Yalnız kendi kullarını görünce öyle karşı açtı.
+
+####################
+Temperature: 1.0
+####################
+z.
+Yazık yiğit, senin afsununu, devletleri bağlamaz mı elçi olursa artık onun bir ikici dilsiz olur. Fakat teneye iltifat eden!
+Doğan bir sıfatlarından bizden yardımı ki aydan olmadı diye vâtıktır kapılık çekip aldı.
+Ey tanesine ibret oldukça kötü şeylere sıçradı... onları açar, fareta hileste kalemizi de fazla al, havadan parlamış,
+derdi adeta buğday parçalanması derim.
+Gönülleri yere buyur da sana kızıp davet ve ihtiyacındanın bedenlerin amanı, kulundan
+bahane giriyor, arı amar elinde görülsün!
+
+Epoch 10/100
+  57/2996 [..............................] - ETA: 27:56 - loss: 1.28202996/2996 [==============================] - 1854s 619ms/step - loss: 1.3024 - val_loss: 1.3564
+####################
+Temperature: 0.3
+####################
+!
+Allah yakınlığından da bir kadın olduğunu bilirsin. Bu sözün sonu olmayan bir şey yapmadı da bu kadar bir bahçelerini söndürür.
+Derdin anlayışından bir yerde bir katradır. Yarabbi, bu sözün de onun için bir katra bağlanmıştır.
+Geceleri bir padişahı anlatmak için bir hayli bir halde görünür, bu sözün sonu görünmez.
+Halbuki sen de bir kadının ayağını bile tamamıyla başka bir şey bile olsa bile bu sözün sonu görür.
+Sen bir gün bile olsa bile bilirsin ki bu suretle beli görünür.
+
+####################
+Temperature: 0.6
+####################
+) durur.
+Kendisinden geçen sofilerin hepsine kul olmak için bir hayli olursa bir de onlara karşı bitmiştir.
+Her birinin yüzünü gördü... ey Allah içinden gül bahçesi geldi: “ Benim güldürdüğün bir şeye baki ki Allah, halife, körlüğe ait olabilirim demekte.
+O işe yardım etti mi senin bir aslı uyanık olsun bu adamdan onun nurunun ağlamasına benzer.
+Gözüm aklım ayıplı kişi define kadar düzüldü mü bu suretle belirirsin... sen bununla dolu olan o dev aldı.
+
+####################
+Temperature: 1.0
+####################
+ ki o lütfeder.
+Allah, öyle olma kanaat ederse kendisi ve iniş yapmış zamanı, asıldan doğsa anlatması gereklerine bekler.
+Her yıldızlara muştucu padişah bir dan, dikkat eden korku ve erifir bir kahrı ile oldu;
+o mahlûkatı alsan,soğan kusarlığa kutluların yeridir ama onlar, hayvanların yokberler.
+Fakat meydandayım, vur ranaç, halkın rüyaları yalanlara, ahyap olur, esasi azabının davesinden hepsinin
+zıddıyla kaygiyi” dedi.
+
+Epoch 11/100
+  59/2996 [..............................] - ETA: 27:47 - loss: 1.27152996/2996 [==============================] - 1853s 619ms/step - loss: 1.2922 - val_loss: 1.3535
+####################
+Temperature: 0.3
+####################
+!
+Allah halifesini bile bu söz söyleyen kişi, elini aldatmak için kapıya kapılmıştır.
+Onun için bu sözün sonu gelmez, gönül dilerse halkın halinden başka bir şey olmaz.
+O kadar gelince bu söz, bir yere baş da uyumaktaydı. Bu suretle bir göz görünür.
+Onun hilesini bir an olsun diye bir karar etmek için ateşe döndürür.
+Onun makamına bakma, sen bir gözünü bulunmaz. Çünkü o adamın da sevgilisi, onun kanını dökmeyi ister.
+
+####################
+Temperature: 0.6
+####################
+.
+O iki yüz binlerce kanı kaldı. Bir savaşta da haristir... bu yüzden uzaklaşır durur.
+Halbuki sen, bütün kurt ve doğru koşup yapışırsam görünüyorum.
+Allah verilmesi, duyguyu başka bir şey sanıyorsunuz. Fakat sana karşılığa düşmandan kaçar” diye bağırır.
+Kendi karanlıkları, kendine gel de bir an olsun, ateşin resimlerinden ince kalmaz.
+Bu suretle de başkasına harap oldu, sarhoş değilse, bu senden başka bir şey yoktur.
+
+####################
+Temperature: 1.0
+####################
+)
+Geri çıkarırsan sıçramıyoruz baban ve sır, küpe, bu,sana göre Çuvalların sesindekilerin göğe
+doğruluğa düştü.
+İkiti yok olduğu halde sana harareti yoktur. Pek şükürlerse ev aşağılıkları yolan yaraştım
+,bunu çekti.
+Seni bıraktıkça kayboldu mu mi o görürse ölümünde değildir, acı söze bindim!
+Öbür doğrusu, yoksa kerpiç üflük yalan suçunun birliğine nazaran savaşta!”
+Hakikîu alalamadan Peygamber'in, hiçbir kendi aksine olmuştur.
+
+Epoch 12/100
+  63/2996 [..............................] - ETA: 27:43 - loss: 1.26182996/2996 [==============================] - 1851s 618ms/step - loss: 1.2828 - val_loss: 1.3537
+####################
+Temperature: 0.3
+####################
+.
+Halk dedi ki: “ Ben sana karşı ağlamaya başladım. Bu sözüm ayağımız bile yok mu… onun için başını kaldırmak istemem.
+Benim halk ettiğim halde sen benim gözümüzü kendine gel, benim için yanıltmak için bu halk ve senin yanında görünüyorum.
+Halk ve testiyi bir taneyiz... sen onu sarılmak isterim; yahut da benim için aşağılık kişilerin yüzünü görürüm.
+Beni görmekten başkasına kapılan benim yanımda bulunmak isterim.
+
+####################
+Temperature: 0.6
+####################
+.
+Allah o âlemde oturdu. Allah deniz ayağını tut, öbürüne tâ...
+Allah yanına verdi mi ücreti bir ağaçtan kurtulur, fakat sen de onun ayıplarını oynamaya savaştır.
+Halbuki o kötü huylu deve de kapalmasın diye senin vasıfları terk etmekteydi...
+Onların aklını aramayan bakırların yüzünü görmüyorsa ona sabrın etrafında döner.
+Toprağın karşısından görür, o taşa koyuldu. İmana benzer ki güzellikten başka herkes kurudur.
+
+####################
+Temperature: 1.0
+####################
+.
+Bir yol az ova yüzünden bir şeyin lşahı küfrünün kötünden önce zulüm kimya, bahse düştüler,
+Külhanı gör! Bizim de tenle ne kadar inkâra erişmiyor, ben, neden hareket etme, yahut yaşlarız!
+Çünkü sen ona cavitlik ve zatımdan hale gelmedim, senin sarhoş olmuştur.
+Bu şeyhe sütten âşık haline gelen o kalabalık yüzünden Kur’an-taşıyırsan,
+güneş için tatlı kırmaz”
+
+Zünnun da maksul nuru, hiçbir arayışınca gönlün sözünü yetişir” buyurmuştu.
+
+
+Epoch 13/100
+  63/2996 [..............................] - ETA: 27:45 - loss: 1.25682996/2996 [==============================] - 1855s 619ms/step - loss: 1.2732 - val_loss: 1.3514
+####################
+Temperature: 0.3
+####################
+ de ona dedi.
+Allah aşkına bir adam olmayan kişi, onun sevgisini görür de o görür.
+Bu söz söylemek için seni görür de onun gözünü açar, bu suretle senin gözünü açar, ayrılık kalmıştır.
+Bu sözün sonu gelir, gönül sahibi olan kötü huyların varlığını göremez ki.
+Bu sözlerin yanında da bir de ayrılık bir köpek görünür, yahut gözünü yaptı.
+Bu söz söylenmeye kadir gibi yalnız bir hale gelir ki seni yaratmak için bir de kör olur.
+Bu sözün sonu gelir, halk dedi ki: “ Ey iyi ama onun sevdasını anlatır.
+
+####################
+Temperature: 0.6
+####################
+ ben de Allah ile ihtiyarını o durur.
+Suret içinde ağrıya daima gören tasan kişi, her sanatın içinde aydınlatır.
+Allah için sözlerini anlatır... bu sözleri duydu. O zehir yıldızla dedi ki: “ Ey Allah devrindir. O bana bu nasihat etmek için bakırını incitmiştir.
+Bu söz yüzlü, bana bu kadar ne oluyor ki bu ses senin düşmanını nasıl olur da kesildi?
+Kışın korkusundan kaçıp suya bir adamın gözümden daha üstün olur.
+
+####################
+Temperature: 1.0
+####################
+.
+Neden bulunan nefesinden mi? Onun ölümü nerede kader daima delikler meydandadır.
+Hani olan kim kendi başka bir hayal oldu; bu yüzden hürdür. Daha fazla mânadan çıkmazsan güneşin yolunu yoktur!
+Kardeş, sen de ömrü o güzelim aynanın sana yürümekteven, vasfetle dolu buldun” dedi.
+Doğruluk duyarsın kork bir görürlerse hükmeder, kulağın açlıktan iftel de yalnız ve kendisinden gelen şey, hiçbir renk surestedi.
+
+Epoch 14/100
+  60/2996 [..............................] - ETA: 27:43 - loss: 1.23732996/2996 [==============================] - 1852s 618ms/step - loss: 1.2656 - val_loss: 1.3470
+####################
+Temperature: 0.3
+####################
+.
+Allah bu sözün sonu gelir, Allah dilenen Allah yardımını alıp durur.
+O senin hayretin sana çekinir, ayak da kötü huylu bir an olsun diye sorar.
+Bu suretle de bu sözün sonu yoktur. Bu sözün sonu gelmezse bu mu başka bir şey değildir.
+Ey aziz olan kuşların karısını kurtarabilir ki halk onu bu suretle ayıp olmayan adam, bu suretle bu halde bir kuş gibi akıl ve bu halde halka gelir.
+O adamın halini anlatmaya başladı. Gönül bu suretle halkın bulunduğunu görmedi.
+
+####################
+Temperature: 0.6
+####################
+.
+Arap kadar bu çeşit adam, senin kolaydır, ona kuruldu. Hele demir ve yana sahip olmadı mı?
+O halde iç denizin dostluk etmesi yüzünden bulut bir hale geldi.
+Bunun aksi bir dert için ağaçların içinde düşmanlık eder.
+Sen, onun ihsan ele kesilir, yüzlerce dal düşmanlık etmediğini hayale sokar, o seni sevgilinin kesik kişilerin yolunu kaybetti.
+
+Allah, her ikisini de onun için bu utanmasın diye titretir. Ziya) kapılarını yolar durur.
+
+####################
+Temperature: 1.0
+####################
+…
+Meleklere alay adam farenin köşkünü pek ömründe bir kırba kendine uyan kendini derse aklın vaitleri
+ancak yarılmıştır.
+Böyle bir küpün de birini bir kapı açılmamış, önüne göre kaçtıra şom ve cihanın hastalarladır.
+Vuzdu kırk tedibe verip ucuzdan, lezzet olması için zayıflan gibi o, onun taşını duyunca ayak yaradılış, halbuki burası faydasıdır. Gam seni affolmakta.
+
+Epoch 15/100
+  63/2996 [..............................] - ETA: 27:46 - loss: 1.23952996/2996 [==============================] - 1853s 619ms/step - loss: 1.2572 - val_loss: 1.3451
+####################
+Temperature: 0.3
+####################
+.
+Sen de başka bir sanat olan kişinin gönlünde bir ayak da bir evettir.
+Bu sözün sonu gelmezse ben senin hastalığından söylemek için her ikisi de bir ses geldin.
+Her an yemek yemek için sarhoş ettin... bir kere sevgiliye bir şey söylemesi
+Bu sözleri duyunca dertten de kendi kendisine gelince görünür de bu yüzden de kuyuyu göstermesi
+Bu sözleri görünce sarhoş görünüşte bir dertten gelen kuşun gönlüne gelip geçti.
+
+####################
+Temperature: 0.6
+####################
+.
+Aynaya bir yeri de bu hususta bulunursa yokluk, söz söyler, bir orduyu satmayacak bir hale gelmez.
+Bu adam ekmeğin de kötü şeyleri gören gözüne bir delildir... hepsini bağlamak için uğraşıyor!
+Damdan gelip oturdun. Cismanim hali için ateş gibi boyunlarda Allah göğe çağırıyorum.
+Ben yapıyorum da geçtim, sana satan bir an olarak avlandım.
+O uzuvlar dedi ki: “ Bu sözün sonunda benim kendimi ekmekten söylemede, bu bağışlandım” dedi.
+
+####################
+Temperature: 1.0
+####################
+ dedi ama
+dedi ki:
+Yayar bir evane süğsü olan beş yüzünü tartıdan utunan!
+Yoksa bunu razı olan devenin sarhoşu. Çünkü yoksul koşa tahammüller verdi.
+Fakat ahdidir, insan oku ama yükünü kopardı, öbürü kurtulmuş, batıdan noksana uyandırır.
+Kıyameta erişeyim, havalanmak için yardım sana ona katsın.
+Şarabımı eteğino ikbale kapılıyor,benim efendimizden bir kabul edeceğim” demekte;
+Beşeriyeleri işleri tespih olsaydı, karnını dardır: Rahim olduktan sonra iştahları kaybolup gitme.
+
+Epoch 16/100
+  60/2996 [..............................] - ETA: 27:52 - loss: 1.23642996/2996 [==============================] - 1854s 619ms/step - loss: 1.2521 - val_loss: 1.3462
+####################
+Temperature: 0.3
+####################
+'
+
+Âdeta bir kuyruk olan kişiye de bak.
+Bu daracık kişilerin incileri de ay gibi olan kişinin kanına girişir, onun kanadını kaldırır.
+O adamın aklı katır, kötü kişilerin sonunda bir adam olur, kalktı da ondan başka bir şey değildir.
+Bir an olsun diye kötü kişiye gayp âleminde bir katra kadar hayran olmuştur.
+Bu sözü bir katra kadar bir katra kadar birer birer bir katra kadar bir şey değildir.
+Bir sanat verir, o tarafa döker, onu bir tarafa çıktı da bir katra kadar gider.
+
+####################
+Temperature: 0.6
+####################
+'
+
+Âdeta göğün gözü kaza ve kaderin yüzünü bile görür mü?
+Ne vakit onun sofu saçıcı kişilerdir, ne akıllardan, ne kadar gözü körün varsa suçları görür, dileyen diken kararlı gözünü açtı.
+Dediler ki: O bu cihan, biz de kulluktan başka bir şey daha iyi bir tek bir adam yok.
+Bizim yalımızda, ben de eşek gibi olmayan padişahım yaratılıyor, beni ayakkın sıkıntısına gazap ederim.
+Başını kavretmekte, armut ağacın suyu kalmadın. Çünkü sen savaş sizden de kimya harumda bulundun.
+
+####################
+Temperature: 1.0
+####################
+'’ sor kesaliye ha olur.
+Mademki yahut çocuklarından tövbenin, Rüstem, daha gözü dinledi... bu sözden gönlünü, daha fazla değince halifesinden beter.
+Tasdik olmuş adamın dünyada ölçüp güneşten düşürmektir ki.
+Mevhum gibi o av, sen fercim dam karşısında yamacıydın mı bu topraktakilere imsimdir. Mislâh edilen üstüne göktür.
+Gani dili, kadehin kabiliyetini taslanmada bulun, gayrı. Orospu gidiyor.
+
+Epoch 17/100
+  60/2996 [..............................] - ETA: 27:43 - loss: 1.22422996/2996 [==============================] - 1857s 620ms/step - loss: 1.2432 - val_loss: 1.3449
+####################
+Temperature: 0.3
+####################
+.
+Allah, onun için bir şey değildir. Bunun gibi senin yanında gönüllerini dileyen kişinin gönlüne girmesin.
+Allah güneşini görünce güneş, güneşin gülüşünün güzelliğine girişmekte, güneş gibi gülünç gülünç bir şey görünür.
+Güneş, güneş günah gününde güzel güzellik gülünç gülünç gülünç gülüşünü güzel gürültüsünden gülüyordu.
+Güneş, güneş gününde bu türlü güneş gündüzü güneşin güzelliğine güvenip gülüyordu.
+
+####################
+Temperature: 0.6
+####################
+.
+Allah’ya sığınılan muratlarına bakmasını diler gördü. Yokluk yoktur. Gönül gözünden derhal söyler, kendisine geldi.
+Bir kötü huyun ve sevinç aktığı külah suyu görür, onların gönül anasını görünceye kadar bilirler.
+Fakat yüksek görünüşte dostun kulluğu gibi onun gölgesinden kurtulur.
+Allah’nın başını kaldır gören gözün kaçırmaya kuvvet veren!
+Hazret ve pusudan elini düşünürse o beni düşünceden söylemekten sonra benim yüzümün elinden benim akıllar kesil!
+
+####################
+Temperature: 1.0
+####################
+.
+Nefis yoktur ki onun gibi baş ağrısından alıkoyunca, âfetle, sayısızca, bütün hayallerden
+
+o gülünç istifattandır.
+Göğsünü, bir sofrasının güzel sidikleri ve Kerbe’yi görür bir tapa da öyle bir nokmak daha üzüm bağlamaktır.
+Sürçmeme ta hakkın baş korkması
+Ahmed aralaştırmak şeyleri aramayan kişiyle beyliğe mektepten bir an bile kurulması
+Tertemizdir, iyileşmeleri “ Lütuf nedir?
+Hâsılı emret, mânayı kim yetiştirmişsin, Musa’la Hâkim’i, Gugunluk, halis arayan, ansızın şu satın alanlaşırsam!
+
+Epoch 18/100
+  59/2996 [..............................] - ETA: 27:48 - loss: 1.22202996/2996 [==============================] - 1853s 618ms/step - loss: 1.2358 - val_loss: 1.3412
+####################
+Temperature: 0.3
+####################
+ ki bu hale gelir.
+Allah hakkında olduğu halde bir kulun karanlıklarını alıp götürmek için bir kara oldu.
+Bir köpek gören kişiye ki bir karıncaya kadar götürdü, bir şey dilemek, kahpe de bir dertten görünür.
+Bu dünya mülkü, kara suyu da kedinin yüzünü gören gözleri görür.
+Senin gözünün gönlünde kurtuluş yüzünden gönül dilerse görünür.
+O güzel güzellik güneşin gönlüne gülünç küpün gülünç gününün gününü güzelleştirir.
+
+####################
+Temperature: 0.6
+####################
+ ki hakikatini iyice ayak atmaz.
+Şimdi bir yerde terk eder, hastalığından gelir, bu çeşit bir kulu bil, bir de dayak olduğunu gördü.
+Âşıkların büyüklerinden geçer, yahut kalanı görmek isterler, bu kadar idrak etsin. Savaştır.
+Yahut da delilik haline getirdiği halde de bunu bilen kumaşlardan geçmeye kalkışan adamın en aşağı geldi.
+Aslan “ Yastığa nasibim” dedi. Adam, “ Bu kurtlar, bizim bir tedbirimizde kalanım yaratılır, benim bu güzellik günümdeki gibi çalışıyorum. Görünmede!
+
+####################
+Temperature: 1.0
+####################
+l.
+Kadın,sararması ve cana “ Allah’ya hükmetin bu alışverişi bir mânevi görünmesi ve hususuz, derecede eşeğim bulunmaz” der.
+“Ey eşağı meylete sahip olan güzele şaire beni dolu. Mandıklarını dikip koşar durur, balıklar varsa benim “ dedikçe.
+Çünkü onlar, aşkı vardır.. ölüm, sokukla gün gelenlerin hakikati neden ölmede!
+Asâsı ona güvence hırsız sahibine sokar, yüzlerce mayil!
+Aşksan, yarasa yanış bu iki gönlünü tarayıp dirilsin diye açar, köpeksin.
+
+Epoch 19/100
+  59/2996 [..............................] - ETA: 27:51 - loss: 1.19792996/2996 [==============================] - 1850s 617ms/step - loss: 1.2281 - val_loss: 1.3431
+####################
+Temperature: 0.3
+####################
+ “
+dedi.
+Adam, “ Bu sözün sonu yoktur. Bu suretle karşılığın da bir adamın adını duyar da bu suretle karıştırmaktaydı.
+Su için bir kazanç vardır. Sabır, sana bedeninde bulunmayan bir kuyu da senin yanında bulunduğunu bile de bu suretle bulunması, bağışlamaktaydı.
+Bu suretle de bir adam, bu suretle de bir adam değildir. Bu suretle bir de bu suretle bu kulağını açmak ister.
+Su içinde bir deveyi verir, bu yüzden bu suretle adam bu suretle de sana arkadaş olmaya bağlanmıştı.
+
+####################
+Temperature: 0.6
+####################
+ sözü hoş olur.
+Kim onun için bu sözün sonu yoktur... çünkü bu işte bu sözlerini duyunca derhal de bir parçacık bir hâdiseler gelmez.
+Bir kahpe adamını söyledi, bu sözlerini yardım eden Allah kuvvetini işitti, pusudan başka bir şey meydana getirip bağırması, bir duvarın bedeninde bir tarafa sokup saçılır.
+Mum sofi, yüz binlerce terazinin bir kurtuldu. Fakat ev kurtulur.
+Öyle bir bozulmadıkça kararlaşırsa her sabretin kâfesi, burada yaşadığı kadından gelen bir şey olmaz.
+
+####################
+Temperature: 1.0
+####################
+ Hiç iki,
+Hemencecik ancak sen, yahut nerede tertemiz etmem?
+Bana beden Allah’nın bayına benzersin ama kâfirlerden o kötülük edenlere düştü.
+Ümmeti apaçıkta. Bu sözde gördü mü? Onun meyvesine bu gecedir.
+Bu âlemden rivayeti, âlemdeki suyu ve kulluk zümrüdüyle cenup verirler.
+O sır sayvan adam, nur ve kâfir hayali, bu huttur ki bil ki mahiyetden uyanın. Hann alelâ “ Kıyamete kadar kurtulamaz!
+Arifin bahisleri rahata ortak adam, bu gül suyu kendisini nasıl inandırsa,
+
+Epoch 20/100
+  57/2996 [..............................] - ETA: 27:47 - loss: 1.21182996/2996 [==============================] - 1858s 620ms/step - loss: 1.2206 - val_loss: 1.3413
+####################
+Temperature: 0.3
+####################
+i'lediler.
+Allah emrine uymayan bir hayli adam olmayan bir halde kalırlar.
+Onu ona karşı bir gün bile onlara bak. Herkes bir katra bile olsa bile bu hale gelir.
+Bu sözlerin kötülüklerini anlattı. Halkın birine karşı ağzını kapattı.
+Dedi ki: “ Bu söz yüzünden kör ve benim gözümü böyle bil.
+Ben bu sözün sonu yoktur ki ayağımın birisinin kanadını kırarım.
+Sen de bir surette söyleyeyim de beni bu yüzden beni söylemek için seni bu sözlerin başında bir çare
+bulmak için bir testi alıyorsun.
+
+####################
+Temperature: 0.6
+####################
+i'lerdi.
+Dedi ki: “ Sen akıllılar için kendi bağını gönlüme de bir daha söyleyeyim, bir olduğumu bile yok!”
+Bu söz kanatlarını, her birinin kötü harflerini bir kara söylediğini bilen, onu hiçine getirir durur.
+Söz söylemeye başladı. Dedi ki: “Bu sözleri söyle; onu ararım.”
+
+Sen bir söz söyleyen bu anlayış, söze mensuptur ve hileye giriştin.
+Peygamber, “ Deve ve sözleri söyleyeyim de benim yanıp yakmada, benim için başkasının ters olmayın.
+
+####################
+Temperature: 1.0
+####################
+i'lesin ki bir avuçlarına dayanırlar. Sonra da cilâlan “ buyurmuştur.
+Bir dertli götürmek hatad-ı zaten duru soruyor da Yusuf’un gönül.
+Bu sözün nurunun emrine güneşdirsen katırı değil midir? , “Halbuki onların yüzyılla söyle.
+Ayırt etmede senin gözüne işin yoktur. Asıl öldür. Erkek sinek bir yerden kurtulan aydınlık, aklına kadar bağırırdı. Derde
+var, fakat bugünü söylememesi,
+Bir sâç, doğru yolu kapıver. Bu adam, Peygamber “dedi. Ömer, sensin.
+
+Epoch 21/100
+  58/2996 [..............................] - ETA: 27:56 - loss: 1.17092996/2996 [==============================] - 1858s 620ms/step - loss: 1.2148 - val_loss: 1.3388
+####################
+Temperature: 0.3
+####################
+.
+Bu sözü duyunca derhal ağır da onun ayağına bak!
+Bu akıllı adamın başına devşir de bir yol aldı, bir karınca o kadar bir derecede bir hale gelir.
+Fakat bu bilgi sahibi de bir an bile kalır. Bu bahardan bir hayli bir şey söyledi.
+Dedi ki: “ Ey kerem sahibi Allah ile bakır da beni bu söz söylemeden başka bir şey görürüz.
+Bu sözü başından söz söyleyeyim... bu sözün son yüzünü görürüm.
+Allah sözünü arayıp duruyorsun ya, sen bana bir söz söylemeye kalkışma.
+
+####################
+Temperature: 0.6
+####################
+.
+Artık ne kadar çok kaza ve kader bir kadı’nın eline koşup durursun.
+Fakat senin malını kaldır... onun aklına, seni kurtarır.
+Bu senin karşısında da yer eğri söz söylenmez, onu ardından kalan kimseye bir tarzda bırakmıştı.
+Ben bu beş duygu bozulmaya sebep olmaksızın aklının etrafında da hayran oldu.
+Şekerden bir ağaç görünür de yakına bak. Her biri çıkarmasından bir sopa da bir delil getirdiler.
+Yanında testileri de doğru giderler, yüzünü yere götürmek için bir sanat vardır.
+
+####################
+Temperature: 1.0
+####################
+ ister.
+
+Dünya kalkıp kendisini bilmese nedir? Ne çaresi varsa, kara yerinden başka bir şey elde etti, uzamıştı!
+Zamandan köleler geldin. Efendi, iki erkeğin neticesine katalım.
+Zeyd, dünyası ister testiyi kötü elinden meydana mı saçtı.
+Az, çığırma, nasıl devlet var, o kötü kişileri kapalı olmadı.
+Akraba harekete gelip durmaktaydı. Nasılsın? Davut öldü... yoksul ey payı Allah’dan aşağı ayırt eder...
+Bu ah edilmeye başladın, çalgın tavlam şeklinde…onu bilsin!
+
+Epoch 22/100
+  58/2996 [..............................] - ETA: 27:53 - loss: 1.17692996/2996 [==============================] - 1856s 620ms/step - loss: 1.2086 - val_loss: 1.3502
+####################
+Temperature: 0.3
+####################
+).
+Kendine gel de halkın elinde de onun için bir kara yüzlerce kere daha iyi bir şey değildir.
+Biri de bir de baktı ki onun için de karınca bir dile gelir, bir hayli hareket etmiştir.
+Bir de baktı ki bir inanan kişi, bir de bir yerde oturdu.
+Karısını duyan bir hale getirir, başka bir şey değildir. Bir de baktı ki bir yana girer.
+Fakat bu söz de bir anda kalan bir hale gelir. Halbuki bu başka bir şey değil.
+Bunu bilmem de başkasının aksine giren bir karınca bir hayli ağaç olur.
+
+####################
+Temperature: 0.6
+####################
+).
+Kadın da onun işi yaratırsın... çünkü biz de onun gibi iki temkini doğrulun!
+Seni böyle bir karanlık dedi ki: “ Duru sana bir ansızın yanında bu dünya yarabbi mülkler ve sana ne olur?
+Bu suretle de başkasından birisini gördü mü kin güderse ona yüz tutmuş kalmış olurlar.
+Her şey, aradın mı aldı nice derdini o yok ki onları aydınlatan bulut gibi kaybolur.
+Ey atalım başkasından kurtulur, fakat hakikati yok eder. Her kötü düşüncesine karşı kavuşmak istemeye başlar.
+
+####################
+Temperature: 1.0
+####################
+)!
+"Allah’nın evi dem vukra, aramadan yanıp yakılmadan yürekten kaç ki seni bir anda götürüp
+duran şey, öpnekleri
+şeye sarılmıştır.
+O nur, ister arasında birisine baş aşağı mumdur... çünkü deveye benzer.
+Oluş mumlarını kuş verdi: Öbürüne de bir fayda verenin türlü kırılmış.
+Sana onu hasedin yok... cana vurulan bir an şaşı göründü...
+Şeyh biten yoksa uyanık Şeyh ile o kavgaların yüzünü gizliye alışmış acılığa çıkarır.
+
+

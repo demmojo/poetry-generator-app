@@ -1,0 +1,394 @@
+Training a Bidirectional LSTM model with 4-layers each with 128 cells
+Training a new model...
+GPU is available...
+GPU is available...
+GPU is available...
+GPU is available...
+{' ': 1, 'a': 2, 'e': 3, 'i': 4, 'n': 5, 'r': 6, 'l': 7, 'd': 8, 'ı': 9, 'k': 10, 'u': 11, 'm': 12, 't': 13, 's': 14, 'y': 15, 'b': 16, 'ü': 17, ',': 18, 'o': 19, '.': 20, 'ş': 21, 'h': 22, '\n': 23, 'z': 24, 'g': 25, 'v': 26, 'ö': 27, 'ğ': 28, 'c': 29, 'ç': 30, 'p': 31, 'f': 32, 'â': 33, 'B': 34, 'A': 35, '!': 36, '’': 37, 'H': 38, 'S': 39, '?': 40, 'O': 41, '“': 42, 'K': 43, '”': 44, 'E': 45, ';': 46, 'M': 47, 'Y': 48, 'D': 49, 'F': 50, ':': 51, 'İ': 52, 'G': 53, 'N': 54, 'T': 55, 'P': 56, 'Ş': 57, 'Ç': 58, '…': 59, 'î': 60, 'û': 61, 'C': 62, 'Z': 63, 'Ö': 64, 'R': 65, 'Â': 66, '"': 67, "'": 68, 'V': 69, '-': 70, '(': 71, ')': 72, 'L': 73, 'U': 74, 'j': 75, 'Ü': 76, '*': 77, 'I': 78, '–': 79, '‘': 80, '—': 81, 'Ğ': 82, 'ű': 83, '\ufeff': 84, '^': 85, 'Î': 86, 'é': 87, 'Û': 88, '}': 89}
+Training on 1,534,217 Character sequences.
+Epoch 1/10
+  84/2996 [..............................] - ETA: 43:33 - loss: 4.63052996/2996 [==============================] - 2790s 931ms/step - loss: 2.4671 - val_loss: 1.5804
+####################
+Temperature: 0.3
+####################
+sesine getirmek için senin de toprak da kadın kanattır.
+Sen kötü kaldı, kuvvet gibi olan kulluk kaldı, başka bir alem bile olan kalamaktaydı.
+Kanat, kanat bilir ki bile bile meydana gelir ama hakikatte kalkıştır.
+Allah için haline gelir, ne koku bile kalmak için bir hale gelir.
+Halk, bir kadar kalmak için bile bile olmayan kalkışır. Hak koku anlatan kaldırır.
+Allah da onun kişinin karışını kanattır. Fakat su için çevik yerine gelip yaratmak için yerine gelir.
+
+####################
+Temperature: 0.6
+####################
+sanattan sana vardı, terzaman kişiye gitti.
+Su olmak üzerin hayat de hakikatte bile arayan olmakta inanda elde eder.
+Gönlüne kalkışıp yolanın olan, eşeklerin güzeline gelir.
+Dinin sesin kadehi olan da sofine bulunacak bile isteyen ne bile gittiler.
+Bu hava ben sözün de sen de kendi bile keski kanattır.
+Allah Allah, bir de testitlere başka çevgilinin bir güneş talihi olsa kokusunu örter.
+Çünkü bu ses ve Allah’dan işte. Ebedî kalmak safırla düşmandır.
+
+####################
+Temperature: 1.0
+####################
+
+Padisahimizin sevdata baştanamaz; su işi iki kabul etti. Fakat değil!
+Onların ektiler, hüzer lervesliklerinin vazgece Leytan
+Fakat bulur.
+Padişah, et aşa çöyle, gitmeden öldürürsün bir getiren, afik bilir.
+Artık, memen olmaksa hikmetime sokaretin tan
+ağacağı, kulakları söz dedi.
+Ateş beni olamakta biliye gider. Çünkü denizi gelir emin ettiler. Firbimi amrını koyulursun, kabun bilirim!
+Sen, bir hale getirdi, zehri gözetin yedin de sen sarhoş da nerede bekliyor, ben buna tak” de
+
+
+Epoch 00001: val_loss improved from inf to 1.58041, saving model to models/weights-improved-01-1.58.hdf5
+Epoch 2/10
+  53/2996 [..............................] - ETA: 41:52 - loss: 1.57792996/2996 [==============================] - 2776s 927ms/step - loss: 1.5103 - val_loss: 1.4520
+####################
+Temperature: 0.3
+####################
+eriz.
+Bu benim ayağında bulunmaz. Bu sözlerin de onun yüzünden başka bir hale gelir.
+Bu sesi bakış adam görünmez. Der ki: “ Benden yüz binlerce bir kötü bir yapmakta, katrasını anlayamaz.
+Bu söz, ayağını bile bir an içinden kaçar. Bu halde o kara denizin görünüşe gelir.
+Halbuki o yolunda bir adam değildir. O görünüşten bir ayak görmedi.
+Allah için bahtından bir sana gelip durmak için benim gözlerini senden kaçar.
+Allah erkeğini görünmeyen bir şey değildir. Halbuki benim senin ayağını bilir.
+
+####################
+Temperature: 0.6
+####################
+iyini tut.
+Yarı, bu şehir yine bir padişahlarını örteriz?”
+Bu yolda, tabiatların yanına bir kör gösterdin, gözünden meydandadır.
+Bu söz söyleyen ben, yeni bir yerler kapıp durmak için hakikatte bir şey değil ki.
+Ağzının yüzünden görünür. Hak gelir. Yürü, bir baht adam yine olur.
+O senin çalışıştan daha toprak gibi denizi görüp yarı istemekten kardeştir.
+Yaraştır, bir görünür, gelip gördü de ey koşmak için bir kurtulur?
+Suretlerin esir gelip karar. A hayat bir aslan kuruya kapılmaz.
+
+####################
+Temperature: 1.0
+####################
+i müddet attı,
+sarhoş yıldızlarını görür ziyan olan cevap vermesin.” dedi,
+Adam, senden gorması, o pek
+köpüp kardeşmek yüzünden değeri secde etmekteydi.
+
+Bir ulu Allah’ya yüce girirmekle kabiline cimattan ganili, pek ne çekerek ateşle yedim razından da birbirlik biraz gider.
+Senden, tanıyorsun, kapkara attın!” Eğer de yarkılıyor, daima Dünya yalnız katır, aşağı yapmazlar.
+İyiybi kalakaldı mı onu duygu yüz, gülmekte doğuzcağı, sizin hayırlanmıştı.
+
+
+Epoch 00002: val_loss improved from 1.58041 to 1.45196, saving model to models/weights-improved-02-1.45.hdf5
+Epoch 3/10
+  53/2996 [..............................] - ETA: 41:33 - loss: 1.42692996/2996 [==============================] - 2773s 925ms/step - loss: 1.4204 - val_loss: 1.4073
+####################
+Temperature: 0.3
+####################
+’nın yanına düşürür.
+Bir kişinin hükmünü görünce karanlık gibi görünür. Bu yüzden bir bahistir.
+Bu sözün de bu hileyle bir konuşur da kendisinden kurtulmuştur.
+Bu kanadının halinden başka bir şey değildir. Senin için bir hayal görmeden bir kadının ayağını bilen kişinin elinden ayırt eder.
+Bu sırada bir kadının ayaklarını arar. Bunun için kaybetmeden başka kimse görmedi.
+Bir kaza ve yanına kadar altının ayağına gitmez mi ki onun gibi bir konuşturur.
+
+####################
+Temperature: 0.6
+####################
+’ya gizlenmişti.
+Bu kocakarından gayrılık olmayan kendine gelince haline geldi.
+Benim kaçıp sakınır, Arap arasında kalkırmaya kalkışan nefiy, ayağını görünür.
+Bu yanın akıllı bir hale gelir. Bu her şeyin ayağına atılmışsın ama bunu söyle.
+Bu güzel madenindeki bu ayak attığın elden çıkar, ağacın merhametinden dolayı söylemesi
+Peygamber, o bir kumsar olan sakın kuvvetlenirsen başka bir kişidir.
+
+####################
+Temperature: 1.0
+####################
+’yun da.
+Ey lâf, senin adımızdır kader hakikatte, bir ad, nasıl olur da hamamı tek akıl yok olmuştu.
+Hâlâ dedi ki: terzi adama sevçe görülün, sığmaya düşürülmüşler diye mahşere kapı olan bu dereceye bak da kucak bulunur.
+Beni can ) , sen var, mâral gibi apazılır... çağır olan şehirliklerden toprakta bildiğini bilmeyiz de onlara
+“ vakit sen kendisini tuttular).
+“ dedikten sıkıntmıyorlardı, ne Allah mecurudur”dedi.
+Azamette, mânayı pisliklerin terk eden sesi, fayda var, ses sana o parasız.”
+
+
+Epoch 00003: val_loss improved from 1.45196 to 1.40731, saving model to models/weights-improved-03-1.41.hdf5
+Epoch 4/10
+  56/2996 [..............................] - ETA: 41:31 - loss: 1.37022996/2996 [==============================] - 2777s 927ms/step - loss: 1.3723 - val_loss: 1.3805
+####################
+Temperature: 0.3
+####################
+alim’in arasında bir hale geldi.
+Halbuki o derdinden başka bir şey değildir ki derdinden de alışveriş etmek için o gönül sahibi olmasından korkuyordu.
+Bu suretle de yüzlerce kara ve adamın aklını arar, onun için yüzlerce deve görünür.
+Bu çeşit adam, bu suretle de her biri bir hale gelirsen bu altın da bir hale gelmiştir.
+Allah hastalığından baş çeker. Halbuki bu suretle de kendini ayıbını bağladı.
+Ey Musa’ya “ Bu suretle de onun için de düşmandır. Senin harflerin boğazını açıkça girişmekte.
+
+####################
+Temperature: 0.6
+####################
+ayna sırrını çekti!
+Biz zâhirenin aksine gelse de senin gönlünü bağladı. Allah davetlerinden daha yarattı.
+Ateşin bir baştan eski yaparsan başlık: “ Bir bağdan hareket ettin. Senin yolunda ve bu sarhoş adam, ne etmezdir ama ne sabah ve aşağılık ve merhamettir.
+Ey uyuma uzaktır, hiçbir şey erişen, gökyüzüne karşı bir ateştir.
+O da bu gönül halini bile düşen oldukça insanların bulunduğunu ve heveslerin zayıflığından daha iyidir.
+
+####################
+Temperature: 1.0
+####################
+’ın değil.
+Perişan, bir İblis ve ihtiyacı şahne, sûretten yüzlerce çorak çift, eir mescidi selâm verdip duruyor.
+Şunu da kendini başka bir yüzü var? sizde geçmeden Sevgiyi demaya testis bahçe olan kişi kubbe almaya
+benzer ateşin ancaksa o paralıdır.
+Seni gece ve üstün İsâ’dan Âlimî bilgisizle cehennem yarattılarsa senin üstüne yetişin!
+Cehennemdişler, o hayal başladın mı oruçtan ayıba salındığın işin meyusunda kalkakaldı.
+
+
+Epoch 00004: val_loss improved from 1.40731 to 1.38052, saving model to models/weights-improved-04-1.38.hdf5
+Epoch 5/10
+  56/2996 [..............................] - ETA: 41:41 - loss: 1.33072996/2996 [==============================] - 2777s 927ms/step - loss: 1.3366 - val_loss: 1.3641
+####################
+Temperature: 0.3
+####################
+’nin işini bile kaçar.
+Bu sözün de bu kötü kişiye bir yerde kalmış olan da gönlün de bir kuyu da bir de onu ister.
+Bu suretle de bir eski de aldırış etmedi ki de onun için de bir kere dilerse bir kere durmakta.
+Bu bir kere bir kuyuya daldırdın, yağmurdan kaçar, bir de bu sebepleri de bir kere duymaz.
+Bu sözü söylemek için de bir de ayağını söylemesi
+Peygamber, “ Bu suretle de bir kere dağı da da onun için bir kulak var!
+
+####################
+Temperature: 0.6
+####################
+e’nin
+sıfatlarını kesilen bir sanattan mutlaka bir başka bir şey bil.
+Ebedî iki gözü artık bir müddet korkusundan kurtulmadıkça da kendi kendine gel!
+Peygamberlerin lezzetleri, sen onun sofrası, yahut da kendi işini vurur.
+Sen de hakikatları gibi iyi de korkusundan kurtulur, de bu yol almış olan kuş, çevikten su gibi seni görür, vebalı gelir!
+Bu suretle kendine gel, artık sen seni de aramak için yapıldı.
+
+####################
+Temperature: 1.0
+####################
+.
+Derken, gül kuşlarından hakikîatlı bir ki biliyor, inanıp kayboldu, ibret aldı.
+“Sabrede gel, mânasız sığmaz... sen… dizine aydınlık bir âlemi verir insan bile tanır, yaşayan körse divanesi de yok.
+Kendine gel de bir koldan korkar, yahut bir yücelerden başka bir yerde olma.
+Bağır ama su yüzünden iyilik ederim. Çünkü tecrelimiz denizine bak.
+Geniş var, her nereci kendine eş gibi yolda da cüreden ancak alçak bilmezsin.
+Varlıkların nurlanması, bunu yıkık yumuşak kaçıp elinden fark etmişti.
+
+
+Epoch 00005: val_loss improved from 1.38052 to 1.36408, saving model to models/weights-improved-05-1.36.hdf5
+Epoch 6/10
+  57/2996 [..............................] - ETA: 41:55 - loss: 1.29142996/2996 [==============================] - 2776s 927ms/step - loss: 1.3052 - val_loss: 1.3489
+####################
+Temperature: 0.3
+####################
+ denizinden değildir.
+Bir adam, baş korkusundan kaçan kişi, bir tek bir karanlık verir.
+Ben senin gibi bir kara olan kişinin birisinin canını kapatır.
+Dedi ki: “ Bu sözün sonu yoktur. Bu sözü yarattın, bu kadar da bu sözleri görmedin.
+Birisi, onun bir adam da bir ateş görünür... bu söz, sen bunu kimse kalmaz.
+Bir köpek gibi bir adam, ben de bizim gibi görünür... yoksa bir karınca yapar.
+Bu suretle de bu sözleri söyleyen kişi, ayaklarını anlattı.
+
+####################
+Temperature: 0.6
+####################
+’ın bu kadar yüzlerce meydana gelmiştir.
+Baykuşların altına kapılıp kalmadım... bu dünyada meyvelerin canına alçak olmayanların ayaklarını kaybetme!
+İki kat köpek gibi tarafa benzer? Bütün halis şaşılacak şeylere atar, seni anlatma!
+Kulluk ettiğin işe yalnız adamdır... hattâ yani gibi ancak makamın ölmesi, iki âlemler, bu suretle onu dilediği gibi duydu.
+Bu ağaç davet doldurur, kendi kanadının şerri kaplarının bundan önce nalı görünüyor, o iştir.
+
+####################
+Temperature: 1.0
+####################
+.
+Bu tek padişahların hakkındır. Yahut Arapça padişah olmakken halkın sözü, tanır, kutlu oku.
+Hak’kın elin, gördüğün şiş sana fikrin sana orada bulunanları yarattır, yaşamasını isterim filini nasıl alır.
+.Bizim hakimin bir bağda bak, din gıdadır. Güneş nadir olmalarının bütün aramasa, hangi arar;
+Ey sırrını yok, götürdüğümden fazlaları, çuvalı olan, nağmelere ne gizli.
+Atını yandırdılar., ejderha ile hem de riya kişinin başlılarına binecek.
+
+
+Epoch 00006: val_loss improved from 1.36408 to 1.34888, saving model to models/weights-improved-06-1.35.hdf5
+Epoch 7/10
+  56/2996 [..............................] - ETA: 41:32 - loss: 1.28152996/2996 [==============================] - 2778s 927ms/step - loss: 1.2752 - val_loss: 1.3383
+####################
+Temperature: 0.3
+####################
+Rabil Kuyusunu da bak!
+Bu karanlık dilerse hakikatte sana bir hayal vermedi. Bu sözün sonu yoktur.
+Bu suretle de yoksulların halini anlatmak için bir surette bulunmadıkça hiçbir şey değil.
+Bu iki halimiz yoktur ki senin ayağını yakar, akıllı adam olmayan bir halde kalmak için bir hayale girer.
+O güzel yüzünden kanadı bağladı. Hayat ve hayallerde bulunan bir zaman bile olsa bile bu seslenme!
+Bu sözün sonu gelmez misin? Bu suretle de senin yolunu gösterdi.
+
+####################
+Temperature: 0.6
+####################
+R-Müminîn aleyhisselâm’ın dilersen değil.
+Ey yücelik kara suyun düşmanlığını kır, yolunu anlatmadan başka bir şeye aldanması
+Akıl, Allah razı ederek bilgisizliğini ateşe atar. Bir kuş gibi denizdir.
+Bu suretle de o yol sana bir meydana gelen kişi bağışlamak için bir tuzak kalmadı.
+Seni görünce, senin ayıplarından yaratılmış da gözün, bir de bahçeler görürse size gelecek?
+Onun için bey de öyle dokunmasın diye tertemiz olan hizmetçi sağırdır.
+
+####################
+Temperature: 1.0
+####################
+.
+Bu çeşit sızdı, hem din de ondan feda etti... şehir bundan yıkanayım dedi.
+O kadarcık yazıktan yıkamar. Fakat bir de taşa, elma almıştı. Varlık vardı ama kafdamda seyre idret olsun zat etmekten vazgeçer.
+Mecusi Firavun’u sebatla pamuksuz bir şey yıldızlar mı herkes ölüm anla.
+Bu kadarcağı ben bayağıdır da İncin kalıp kalkıp durur.
+Onu mahvedip durmadan değildir… doğru bir sofrasını anlatır beni iltizlenip “Ben de padişahlıklara ve emniyet verme.
+
+
+Epoch 00007: val_loss improved from 1.34888 to 1.33825, saving model to models/weights-improved-07-1.34.hdf5
+Epoch 8/10
+  55/2996 [..............................] - ETA: 41:34 - loss: 1.24742996/2996 [==============================] - 2778s 927ms/step - loss: 1.2460 - val_loss: 1.3329
+####################
+Temperature: 0.3
+####################
+em var mı?
+Padişahın yüzünü görmedikçe ten de kurtulmaya başladı. O ihsan sahibi Allah hakkı için kalakaldı.
+Adam, bu suretle de bir köpek görürsün ki bu balçıkla dolu bir hale gelir.
+Allah da bizim gözümüzü de biliyorsan bu sözü duyunca o kadar bir tek kırbadan kurtuldu.
+Karınca bir kadının her birine karşı haline getirmek için bir karanlık verir.
+Halbuki sen de bir de bir kara bulur, bir koku almak için bir dertten kurtardı.
+
+####################
+Temperature: 0.6
+####################
+im
+iyiyi de kimse o taraftan kaçtı.
+Gerçi suyla da bir iş yapar, bir korkarak o illet verir.
+Fakat onu huy etmiştir. Senin adını anlatamaz ki!
+A benim kulun haline gelir, söylenip durmasın, hem de kul olan bir diri olmasın diye kötülük etmedi.
+Halk, bunu hançerim sandın, akıllar cüzileri duyunca o eşek denizinin elinden başka her şeyi görmedim mi?
+Demir kurtulma halkın altında bir suretsiz bir dilim denizdi.
+
+####################
+Temperature: 1.0
+####################
+ek kaç, dibini de seyret!
+Bir yara, bir edep bile sığmaz... Perdesi yola nasıl olur da toprağa götürürse bunda birdir.
+Bunları bu lâtif olan, iyi sapık bakımından, dışarıda kalır, onun sırrına düştüm.
+Sevgili, çayırlı kişi yoktur, su içmeyi neşelendi ve sitem emredip duruyordu.
+Fakat eğri boyun zevk olmak için Tanrı halis ve fark olur Allah’nın mühür ve niyneler kor, yine şahidin.
+
+
+Epoch 00008: val_loss improved from 1.33825 to 1.33293, saving model to models/weights-improved-08-1.33.hdf5
+Epoch 9/10
+  60/2996 [..............................] - ETA: 41:39 - loss: 1.21062996/2996 [==============================] - 2776s 926ms/step - loss: 1.2172 - val_loss: 1.3274
+####################
+Temperature: 0.3
+####################
+esini diler.
+Gözün hatırını sordular, bir adam görürsün de bu kadar da bir derece erişir.
+O dağ gibi kara kulağına da sabretmek için değil. Bu suretle de bir katraya benzer.
+Bir adam, bir an olsun diye sormaya gidiyor, gönül dilerse bir kuş gibi bir devlet verir.
+Bu suretle de bir katra bir kuş gibi görünürse bu bir kadının hayatıdır.
+Bu kadar karışık yüzünden sevgiliye kadar görürsün... bu suretle de hemen senin yanında bir katra sahibi olan bir katradan kurtulur.
+
+####################
+Temperature: 0.6
+####################
+imiz yüzünden kabul etme.
+Peygamber, “ Suyun, akılları bile yerini kesmeye başladı. Bu sırrı kasteder, konuk öldürüyordu.
+Bunların muradına düşmüş, iş işlemiştir, ne bir halde kolaylaştırdı.
+Savaşmak, dilediği yollu suyu ihtiyardan, gözünü açtı.
+O kurt da pek güzellikten bir konuk görünür de bu sırada yerinden bir koku alır, yerinden çıkar.
+Savaşta gece yarısı kalır, kendine gel de denizde o bilgi aramaz.
+Gece yarısı olan kişinin tabiatını o tarafa atarlar. Bu suretle de aynı yanmaktadır.
+
+####################
+Temperature: 1.0
+####################
+i
+tekrar bir erirsin . O fikrimizden ibaret, mescit kesil.
+Elin, âdeta cevabı! Hiç başka bir şeye elinden önceden sakalır ama onlar bağır, bunu görmez,
+bunu fiç.
+Adamın, sevgilinden tekbir kâfir olmuştur, geniş güzelliğindeki kuş, pek köm kör gör!
+Ata olsun o öküz; nasıl olur da Allah kızgınlığı baş aşağı şeylere sahip etmeye koyulur, o şaşma...
+Ona bakmış, o çeşit selimsin, gönlümden güne erişen kurtsaydım diken
+geçmesi kabiliyetini şimdi düşünenlerse onu kesiyorsun?
+
+
+Epoch 00009: val_loss improved from 1.33293 to 1.32744, saving model to models/weights-improved-09-1.33.hdf5
+Epoch 10/10
+  53/2996 [..............................] - ETA: 41:40 - loss: 1.17482996/2996 [==============================] - 2769s 924ms/step - loss: 1.1890 - val_loss: 1.3266
+####################
+Temperature: 0.3
+####################
+ini de görürsün.
+Halkın bir adamı bir başka bir şey değildir diye yalvarır. Onun için bu sözü duymadan bir katra görünür.
+Onun için de onun için bu halife düşürür, gül bahçesinde de bir katra yaptı mı o da meleklerin hasetlerini de görürsün.
+Bu dünya malı olduğundan bir şey değildir. Bu sözü açık da bu bahis, bir devlet de bir şey değildir.
+Kara sularının arasına karşı konuk görünür... başka bir adamın da bize bir şey değil.
+Bu söz de bir adamın ayağına bir kat kat da bakar da bunu bilir.
+
+####################
+Temperature: 0.6
+####################
+inden kurtulur!
+Gemide bir saltanat arayan kişinin canının boynunu vurur durursun.
+O sedeften de bir meyve eden Allah yolunda ne hale gelirse ne ibadette bulunca gül değildir.
+Gece yarısına geldin, gelir gider, onun yüzünden de eskidir... görünüşte bir hayale rahmet eder.
+Akıllı kişilerle beraber Allah işaresi vardır ki bu daracık gönlünü terk etmiştir.
+Her iki taraftan bir adam varsa onu söyledi, sen hakkında da bir toprak kalır.
+Peygamber, “ Ben feryat sakalını alıp ve aklını görmesi
+
+####################
+Temperature: 1.0
+####################
+" demektir).” Firavunlar onlara doğru ,harcaveye döner, hakkında aydınlanır gider!
+Ya hayvani inkâr eden “ Ey dostu olarak yine de halk görür!
+Güzel de din olmayanlarım; akraba ne çare vardır. Dostluğumun tufana başlıyız, doğruyu verdiler.
+Sahip olanlar, bizden kaynasını sallamaya başladı. Hangisine, tamamiyle hilebaflaza ayaklar çıkarır).
+Üçüncü beni şana. Hileye el umumiyetle nadir olan bu ihsan sahibi keskinliktem vazgeç.
+Bu hali pisliğe bak! Yahut da sen onu da asıl bulundum.
+
+
+Epoch 00010: val_loss improved from 1.32744 to 1.32657, saving model to models/weights-improved-10-1.33.hdf5
+__________________________________________________________________________________________________
+Layer (type)                    Output Shape         Param #     Connected to                     
+==================================================================================================
+input (InputLayer)              (None, 175)          0                                            
+__________________________________________________________________________________________________
+embedding (Embedding)           (None, 175, 125)     11250       input[0][0]                      
+__________________________________________________________________________________________________
+dropout (SpatialDropout1D)      (None, 175, 125)     0           embedding[0][0]                  
+__________________________________________________________________________________________________
+rnn_1 (Bidirectional)           (None, 175, 256)     261120      dropout[0][0]                    
+__________________________________________________________________________________________________
+rnn_2 (Bidirectional)           (None, 175, 256)     395264      rnn_1[0][0]                      
+__________________________________________________________________________________________________
+rnn_3 (Bidirectional)           (None, 175, 256)     395264      rnn_2[0][0]                      
+__________________________________________________________________________________________________
+rnn_4 (Bidirectional)           (None, 175, 256)     395264      rnn_3[0][0]                      
+__________________________________________________________________________________________________
+rnn_concat (Concatenate)        (None, 175, 1149)    0           dropout[0][0]                    
+                                                                 rnn_1[0][0]                      
+                                                                 rnn_2[0][0]                      
+                                                                 rnn_3[0][0]                      
+                                                                 rnn_4[0][0]                      
+__________________________________________________________________________________________________
+attention (WeightedAttentionAve (None, 1149)         1149        rnn_concat[0][0]                 
+__________________________________________________________________________________________________
+output (Dense)                  (None, 90)           103500      attention[0][0]                  
+==================================================================================================
+Total params: 1,562,811
+Trainable params: 1,562,811
+Non-trainable params: 0
+__________________________________________________________________________________________________
+None

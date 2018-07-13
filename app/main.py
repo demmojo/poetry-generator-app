@@ -60,7 +60,7 @@ def load_model(subdomain):
     """Loads pre-trained model weights, vocabulary file and configuration."""
     global model
     model = textrnn(weights_filepath='models/{}_weights.hdf5'.format(subdomain),
-                    vocab_filepath='models/{}_vocab.json'.format(subdomain),
+                    vocab_filepath='models/{}_vocabulary.json'.format(subdomain),
                     config_filepath='models/{}_config.json'.format(subdomain))
 
 

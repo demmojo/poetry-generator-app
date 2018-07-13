@@ -1,0 +1,761 @@
+Training a Bidirectional LSTM model with 4-layers each with 128 cells
+Training a new model...
+GPU is available...
+GPU is available...
+GPU is available...
+GPU is available...
+{' ': 1, 'e': 2, 't': 3, 'o': 4, 'a': 5, 'h': 6, 's': 7, 'r': 8, 'n': 9, 'i': 10, '\n': 11, 'l': 12, 'd': 13, 'u': 14, 'm': 15, 'y': 16, ',': 17, 'w': 18, 'f': 19, 'c': 20, 'g': 21, 'I': 22, 'b': 23, 'p': 24, ':': 25, '.': 26, 'A': 27, 'v': 28, 'k': 29, 'T': 30, "'": 31, 'E': 32, 'O': 33, 'N': 34, 'R': 35, 'S': 36, 'L': 37, 'C': 38, ';': 39, 'W': 40, 'U': 41, 'H': 42, 'M': 43, 'B': 44, '?': 45, 'G': 46, '!': 47, 'D': 48, '-': 49, 'F': 50, 'Y': 51, 'P': 52, 'K': 53, 'V': 54, 'j': 55, 'q': 56, 'x': 57, 'z': 58, 'J': 59, 'Q': 60, 'Z': 61, 'X': 62, '3': 63, '&': 64, '$': 65}
+Training on 891,572 Character sequences.
+Epoch 1/10
+ 104/1741 [>.............................] - ETA: 25:12 - loss: 3.19561741/1741 [==============================] - 1705s 979ms/step - loss: 2.0755 - val_loss: 1.6055
+####################
+Temperature: 0.3
+####################
+ the prove of your were
+The which a sucker the with a more the groves may.
+
+KING EDWARD IV:
+What the which the will not be the wards and shall be with him.
+
+DUKE VINCENTIO:
+And where in him with the will not the will and
+The proce the will a will his bear a will be sorrow,
+And with my lords and the now, which in the have not
+A have be so born a prove a prove of a have thee with the which
+The of the him shall be so that all be the proyed,
+And which the which may with his shall be so lords,
+
+####################
+Temperature: 0.6
+####################
+ly lords, which
+The From the kingless that been the wars.
+
+LICIO:
+Gover:
+I have do your lay!
+
+LADY CAPULET:
+My lord, a more more by death, but now him
+For her hearing and sime shreath, be the deep'st,
+Which year this doee, and grace that shall for my of more,
+Where the with the world must against him the but
+Ine the chixce that what delives a will nor when this hather,
+And me more which what whoshe may I will be not brother:
+What, and I will more him ore wortherrather,
+
+####################
+Temperature: 1.0
+####################
+raints. That shall
+Avorcaty me come of the sallions pruce.
+
+CLAUDONCA:
+Whis you shall baz nine your way any lords,
+Than worthy we now no, and banis us
+Fare are first prove in this hand him,
+Should what I no, I' the hands diandes, world ingels.
+
+CHARIS:
+You wild and their a flown this than abrolinabare.
+
+DUKE EDIO:
+O, before: what, sup uphips by be knie.
+O rome: fair his reave mide mothers dide!
+Which who much treaths bohy a fell; for thinks me.
+
+AUFIDIUS:
+Be I shall leave for accios a Years,
+
+
+Epoch 00001: val_loss improved from inf to 1.60551, saving model to models/weights-improved-01-1.61.hdf5
+Epoch 2/10
+  51/1741 [..............................] - ETA: 25:21 - loss: 1.60841741/1741 [==============================] - 1709s 981ms/step - loss: 1.5092 - val_loss: 1.4205
+####################
+Temperature: 0.3
+####################
+
+And see the will the death of the flowers and the
+common that the will for the thank and all the sight,
+The was the death to hear the name of my love
+And the death of the gracious love as the sight.
+
+BAPTISTA:
+I do not so more to thy brother least,
+And what will to the man to see the fear;
+And the princely of the cousin than there?
+
+KING RICHARD II:
+Why, sir, that say the many heart and the sight,
+Thanks I come to the will the body to his prince,
+But shall the father than the truth of the sun,
+
+####################
+Temperature: 0.6
+####################
+
+which it with an all thank music, who shall go me thee
+To my worse safe for the thank the all unward heom
+Shall not see thy profession and him not before
+I will I will there it not so any took:
+Come honour thanks are not sea thee will speak
+To go your father; and his business my heart,
+I do so all the excession of so doth call
+Of the measure to the will marry the truth of the tale;
+And this show Freudes, my lord, that or mady chmond?
+
+And I will:
+Where it unforce on her and death her will.
+
+
+####################
+Temperature: 1.0
+####################
+,
+Sign of them the plame, I am lie
+Nawbring thanks to my suitor father with thy heart
+To sir, and you? let, King' her: I father,
+Bwit thy sadder thank thee are little with,
+Let a purbite dear to his mine owe the face.
+
+ARCHILIUS:
+Yes, doth lay, Juliet: hither, fair well, I had may!
+
+Third Citizen:
+What! misery weigh, why,'tings, Camin. Were oun I wife:
+Will you wise her:'Af nork: my lord, I did were her,
+Shall' not by a your diserbiled Eoch:
+I am not commiys their love? And I do all
+
+
+Epoch 00002: val_loss improved from 1.60551 to 1.42049, saving model to models/weights-improved-02-1.42.hdf5
+Epoch 3/10
+  51/1741 [..............................] - ETA: 25:17 - loss: 1.39961741/1741 [==============================] - 1704s 979ms/step - loss: 1.3827 - val_loss: 1.3614
+####################
+Temperature: 0.3
+####################
+ the beauty and so find
+a man of the present of the strength of the world:
+And he shall have so will have so will hear thee
+And they are my soul as thou shalt be so?
+
+GRUMIO:
+I will say the prince of thy behold here in heart
+That will have seen as thou hast thou art thou art
+And which he makes the world of thy father.
+
+BUCKINGHAM:
+I do be in the mortal to my brother.
+
+BRUTUS:
+I am not to her.
+
+SICINIUS:
+So that thou art thou this behold me and me.
+
+Second Servingman:
+
+####################
+Temperature: 0.6
+####################
+ thou lives should have said,
+I think I must hear thou hast to my soul,
+And so he hath repreceive thy most measure.
+
+GRUMIO:
+I'll saw me to a sign of chair from thy medultes
+From his a years or way to prince away;
+And so I to stand; and so my gracious son,
+And thy begin to such a place of me.
+
+KING RICHARD III:
+I would will be beguilly with so, thou hast
+commoner, and the brother of my wacking property
+And beguilless and thought the royally worse;
+And will I take it in the good father.
+
+PAULINA:
+
+####################
+Temperature: 1.0
+####################
+ and war; and so readly,
+Is't, who in the brieve of her libouted,
+No very is of those proud much tame honest
+I'll wake, way in here recreated: filsies; When,
+Do not me fall.
+
+HASTINGS:
+Gentlewoman, the! are I hear thy soul, my mind
+Should grace revenged faithfully coming.
+
+All aither:
+All youriely things,--then hret
+And beholded grounded of English or,
+So gentless speak will hath ere joy.
+
+Say rivant:
+No, past I bear a wolsopth, and in his root
+As I said for it, endaties o'erpoid,
+
+
+Epoch 00003: val_loss improved from 1.42049 to 1.36141, saving model to models/weights-improved-03-1.36.hdf5
+Epoch 4/10
+  52/1741 [..............................] - ETA: 25:14 - loss: 1.31731741/1741 [==============================] - 1703s 978ms/step - loss: 1.3164 - val_loss: 1.3277
+####################
+Temperature: 0.3
+####################
+ and what a
+torment you, and so long and the care so she was all the fair
+have an all the proffer'd stars of the consent.
+
+LUCIO:
+I pray thee, good lord, let me before you,
+The steel to him to him.
+
+ANGELO:
+I shall be the consent and shed thee to the
+plains, and then I have stream in his grave of his
+that she should be content to his compassion.
+
+DUKE VINCENTIO:
+It is the princely before the children.
+
+HORTENSIO:
+What is the man be for the fair?
+
+LUCIO:
+I cannot be thee?
+
+GLOUCESTER:
+
+####################
+Temperature: 0.6
+####################
+.
+
+LUCENTIO:
+It is the strong grace that consider her
+That arms some more consent and me something.
+
+LUCIO:
+Procure is the music shall be, my man!
+For you have content to this place of such a
+dovern blood, and begin to be received born.
+
+KING RICHARD II:
+I'll not be not that she's unto the earth?
+
+QUEEN ELIZABETH:
+Now art thou then death! Proud can him be
+send in the bear to come way to away.
+
+PETRUCHIO:
+That is the fair cruel and for my heart
+You are ask with his heart and thinkest me,
+
+####################
+Temperature: 1.0
+####################
+?
+
+LADY ESBROKE:
+Hail'd you, doinus, that in you; but call
+Shepported, my cursed me, bear their prison
+Beseech you have colp, monalty, and all stock?
+
+Citizen:
+Forward then?
+
+LORD FITZWATER:
+They should there I hope! father, go; before you?
+
+KING RICHARD II:
+'Twere the tresseless!
+Your shall I come withmood Mray, and therefore
+So heed to come that e'er brought at mine,
+Lie tincold shoulder dooms, Earl of York.
+
+VIRGILIA:
+I heard before i'; for now, his appron disland,
+
+
+Epoch 00004: val_loss improved from 1.36141 to 1.32769, saving model to models/weights-improved-04-1.33.hdf5
+Epoch 5/10
+  52/1741 [..............................] - ETA: 25:17 - loss: 1.25901741/1741 [==============================] - 1701s 977ms/step - loss: 1.2679 - val_loss: 1.2994
+####################
+Temperature: 0.3
+####################
+?
+
+PETRUCHIO:
+I do not say it in the like a strong;
+That was the prince to be the contract comes,
+That he was not perform'd and the contraction
+That were the senate of the state of the blood,
+And therefore that was the world to the point,
+That have stands a bastard of the world,
+And that hath some fall of his part of grace.
+
+KING EDWARD IV:
+What may the strong is the truth of the country?
+
+JULIET:
+I would the face of the man of the commons,
+That hath some stands of the straight of the land,
+
+####################
+Temperature: 0.6
+####################
+?
+
+GLOUCESTER:
+What comes my mother?
+
+CLAUDIO:
+Ay, and a words, and therefore, let us die.
+
+KING HENRY VI:
+Sirrah, provide and your love we should be through
+The warned death, to make the field shall srew,
+In such an in her that I was like.
+
+HENRY BOLINGBROKE:
+Have you any thing in the presence of me?
+
+GLOUCESTER:
+A discent of your grace in a king and prove
+his blood in a souls restored and removed
+With fine have left to close the present doubt,
+And be the modest and her own comes under,
+
+####################
+Temperature: 1.0
+####################
+,
+thou shouldst studme at done, that would not show us you? ho!
+
+BENVOLIO:
+What's this a clothe?
+
+CLAUDIO:
+Ha's the eye down and you shall return to:
+When thou canst not back you.
+
+PERDITA:
+But, thou canst not leoze him to your blood, and Wall.
+And you'll call thee blood of us betrous hither,
+Because slips and in: my one day conjures,
+For my vein souls and perform by last.
+But owlect her times; not the yed speedy,
+Though when 'tis love content in succitatity,
+
+
+Epoch 00005: val_loss improved from 1.32769 to 1.29937, saving model to models/weights-improved-05-1.30.hdf5
+Epoch 6/10
+  52/1741 [..............................] - ETA: 25:12 - loss: 1.21291741/1741 [==============================] - 1700s 976ms/step - loss: 1.2263 - val_loss: 1.2845
+####################
+Temperature: 0.3
+####################
+ and so so.
+
+LUCIO:
+Why, then, my lord, I have a son to the heavy tongue
+shall be so far to his son of the majesty,
+And then the sun of holy of the treasure,
+That thou hast stay'd the throat may be so straight.
+
+RICHARD:
+I will not so dead.
+
+LEONTES:
+And that the season shall be so, and the sons
+To make the street of the countenance of heaven,
+Which I have striked the throat that have shamed
+The throat of the tender of the wars,
+Where now the world is not the world be such a bawd.
+
+
+####################
+Temperature: 0.6
+####################
+ to follow.
+
+CAMILLO:
+Ay, this is the castle, come with thee.
+
+ANGELO:
+Now, brotherly, I should have done with him, hold,
+The earth can so with a human of the speech.
+
+QUEEN:
+No bonder counterfeit the hands of love's cheeks,
+And both and with intents that all the flights,
+That wounds the spirit of the breath of death.
+
+DUCHESS OF YORK:
+Ay, sir, is the villain to his neck of life,
+Or else have wounded the world shall be need.
+
+QUEEN:
+I will have it and thus again.
+
+COMINIUS:
+Well, poor son,
+
+####################
+Temperature: 1.0
+####################
+ such manimes and
+spare to have you; 'tis him rates alrear stuff?
+
+GLOUCESTER:
+Madam, home, so rest; and, from that with
+Shame; emecution may change their title.
+
+Nurse:
+What? like trial weath?
+
+QUEEN:
+Might he had me:
+That France, in bad deserves cannot but
+The wink for this of the hossen table.
+
+KING HENRY VI:
+Go, bear me in the sun; the villain shall esquest;
+Nowless he his son, you should read light sour.
+
+KING EDWARD IV:
+Now profitation or the datress robbetime
+
+
+Epoch 00006: val_loss improved from 1.29937 to 1.28454, saving model to models/weights-improved-06-1.28.hdf5
+Epoch 7/10
+  52/1741 [..............................] - ETA: 25:17 - loss: 1.18061741/1741 [==============================] - 1703s 978ms/step - loss: 1.1865 - val_loss: 1.2724
+####################
+Temperature: 0.3
+####################
+ his country?
+
+Provost:
+And then, my lord, I have such a bawd, and the
+statue of the streets of him.
+
+SICINIUS:
+We have no more, and there the way and honourable
+he is to the state of the senate of the world,
+And there is my wife and sailors of the sweet souls,
+Which he was not so here in the house of York.
+
+KING RICHARD III:
+What is the bold of the best of the county?
+
+First Senator:
+So the man a man and the entertain's words:
+The world the sea of the man of the world,
+
+####################
+Temperature: 0.6
+####################
+ here.
+
+CLARENCE:
+No, not this woman's death to me some more.
+
+DUKE OF YORK:
+God save the duke's death, and good night to him.
+
+Second Messenger:
+The way dispropers that made them, and the root
+With all betwixt their blood upon the bosom:
+The princes hath not get the first enough,
+When they are with his mother from his sweet,
+Shall arm thy blood hath seem'd in company.
+
+KING RICHARD III:
+And from the earth hath not abuse the country.
+
+KING RICHARD III:
+
+####################
+Temperature: 1.0
+####################
+, and
+that cannot blind and young men to my life to send
+him for ever: which are thy shoras seems on
+grinnor than he comes.
+
+FLORIZEL:
+Ay, then, I.
+
+DUSK:
+Why, no weekness and all a cousins?
+
+Shepherd:
+Greedit he lace:
+I will take to hear idly in sharply
+In some fear forth in mine own repair.
+Thou wouldst tell thee, for death govern with knowledge,
+When were from full of the shame wretched from thee
+For true strange hide to hang him: yourself ted!
+He on Venice profess, in God's nakes
+
+
+Epoch 00007: val_loss improved from 1.28454 to 1.27237, saving model to models/weights-improved-07-1.27.hdf5
+Epoch 8/10
+  53/1741 [..............................] - ETA: 25:08 - loss: 1.14091741/1741 [==============================] - 1703s 978ms/step - loss: 1.1471 - val_loss: 1.2658
+####################
+Temperature: 0.3
+####################
+ and will.
+
+LUCIO:
+I thank you, sir, the crown and the prisoner for the sun
+and makes me so much so prepared and the world, and be
+so shown a man to stay as the charge of the prince,
+that we should be satisfied and make the crown, and
+the executions is the king, and makes me all the world.
+
+LADY ANNE:
+I would they see the deed of the fire a shrewd
+That we have been a word to see the world.
+
+QUEEN MARGARET:
+The senators of the people and the world,
+And the breath of the best of the death;
+
+####################
+Temperature: 0.6
+####################
+ and with
+the death of the king make pretty one in a place
+and send the manage of the people. What may comes
+the concupted king?
+
+CAMILLO:
+The good will prove that commanded a man.
+
+MENENIUS:
+Nay, fair lady!
+
+COMINIUS:
+At the mind to take our brother and be swalls:
+The crown every wrongs that she lives not.
+
+BUCKINGHAM:
+Well, my lord, I say, but the king of York,
+I know the prince with me. Come, let me see
+Love the senate way to save thee a score point
+Of purpose of his friends; and the sight
+
+####################
+Temperature: 1.0
+####################
+ his body.
+Which was the queen's face?
+
+First Murderer:
+Visiteless are thy child. We will have a thied.
+
+ISABELLA:
+I am goisterprepting with our former weather:
+And for his gravelous very harm to die,
+Of any digners of me; and they do;
+But precepts in vain, yet from the sound of hands:
+Know-horse! Lady, do approach for leipon.
+
+MARIANA:
+She was cursed by their own nurse, and suppasted
+Coriolanus, to gracom broil, sunder true,
+But licklong adudes, musicians,
+
+
+Epoch 00008: val_loss improved from 1.27237 to 1.26578, saving model to models/weights-improved-08-1.27.hdf5
+Epoch 9/10
+  52/1741 [..............................] - ETA: 25:07 - loss: 1.09941741/1741 [==============================] - 1700s 977ms/step - loss: 1.1082 - val_loss: 1.2670
+####################
+Temperature: 0.3
+####################
+
+his honour to the people.
+
+CORIOLANUS:
+What is the wise that hast thou speak a prince?
+
+PETRUCHIO:
+Why, then, my lord, I know not this the death.
+
+QUEEN MARGARET:
+The strange is that he should be the death.
+
+QUEEN MARGARET:
+Go, go, and so she is this morning of them.
+
+LADY CAPULET:
+What is the world that should be so like it?
+
+PETRUCHIO:
+The word is not to be a world and straight.
+
+PETRUCHIO:
+I pray you, sir, I am a fearful book.
+
+PETRUCHIO:
+Sir, I will not send the people and her.
+
+JULIET:
+
+####################
+Temperature: 0.6
+####################
+?
+The prisoner hath the best of my power to
+counterfeit of it to be your souls of the
+commission. Come, so long a foe of this cur
+to come to thee to a man.
+
+POLIXENES:
+This is the house of York.
+
+PETER:
+Thank you, my lord, I speak with him and ungraced,
+I know not, I should have the most dear son.
+
+DUKE VINCENTIO:
+For this is the wrong for the duke that call'd?
+
+KING RICHARD III:
+Why, when you must bear me to the queen there?
+He is the more warn'd war; and there is flatter
+
+####################
+Temperature: 1.0
+####################
+
+his ritic fiery joy?
+
+Lord:
+How hither and George!
+
+First Soldier:
+The gods did you repent them too?
+
+LUCIO:
+Follow'st thou the people: I have a delight
+To this trothest out of him.
+
+Nurse:
+I, Claudio is our caesful, for this name
+Shall beher of the all.
+
+First Lord:
+The drum,
+What says your royal stitune wanton's foot
+That villain of nears smile to court him in.
+
+QUEEN ELIZABETH:
+To see the crown of, to crueler, and I;
+And so I live, but you troop'd before him, he
+
+
+Epoch 00009: val_loss did not improve from 1.26578
+Epoch 10/10
+  54/1741 [..............................] - ETA: 25:13 - loss: 1.06931741/1741 [==============================] - 1707s 981ms/step - loss: 1.0714 - val_loss: 1.2672
+####################
+Temperature: 0.3
+####################
+?
+
+POMPEY:
+I had rather lived to her souls nor gone.
+
+SICINIUS:
+What may she had a service?
+
+POLIXENES:
+The senators is a shame, and hear me not
+To the controll'd black and free or no more.
+
+KING RICHARD III:
+What is the rascal gods that thou wert dead?
+
+CLARENCE:
+What is the battle shall be the court?
+
+PETRUCHIO:
+Why, then you shall not see the control soul
+With creature that we may not stand a word,
+That thou wilt seem to the death of heaven,
+And therefore privately and the common proverty.
+
+
+####################
+Temperature: 0.6
+####################
+
+he will to my son is not a man be a storm
+before the prince that the chase, not in the king
+as he that love to make me about it as a means
+to make you means that you shall believe thee to him, and
+The beam of worthy singular and I have not
+a subject with the pater of the princely tongue
+To see the controversy short of my country.
+
+ESCALUS:
+Well, sir, you stood,
+That would sent betide you were bestroy'd to you
+Of his noble lady, and for the last of you
+
+####################
+Temperature: 1.0
+####################
+
+it is, let the king; remaginating us,
+If we departed with Buckingham, she may set
+our patience; with his young man that loss with the prince
+Ere beat the general of the fair throne,
+about with an answer; and set down my fortune:
+but I will scat it fear-lack, set to be cold,
+And since I had spent the senate shall find,
+Lest all pure my kinsman o' the point.
+
+FRIAR LAURENCE:
+God save your steed, I pray thee, Richmond!
+
+JULIET:
+I beseech the common vault's virtue;' and so
+
+
+Epoch 00010: val_loss did not improve from 1.26578
+__________________________________________________________________________________________________
+Layer (type)                    Output Shape         Param #     Connected to                     
+==================================================================================================
+input (InputLayer)              (None, 175)          0                                            
+__________________________________________________________________________________________________
+embedding (Embedding)           (None, 175, 125)     8250        input[0][0]                      
+__________________________________________________________________________________________________
+dropout (SpatialDropout1D)      (None, 175, 125)     0           embedding[0][0]                  
+__________________________________________________________________________________________________
+rnn_1 (Bidirectional)           (None, 175, 256)     261120      dropout[0][0]                    
+__________________________________________________________________________________________________
+rnn_2 (Bidirectional)           (None, 175, 256)     395264      rnn_1[0][0]                      
+__________________________________________________________________________________________________
+rnn_3 (Bidirectional)           (None, 175, 256)     395264      rnn_2[0][0]                      
+__________________________________________________________________________________________________
+rnn_4 (Bidirectional)           (None, 175, 256)     395264      rnn_3[0][0]                      
+__________________________________________________________________________________________________
+rnn_concat (Concatenate)        (None, 175, 1149)    0           dropout[0][0]                    
+                                                                 rnn_1[0][0]                      
+                                                                 rnn_2[0][0]                      
+                                                                 rnn_3[0][0]                      
+                                                                 rnn_4[0][0]                      
+__________________________________________________________________________________________________
+attention (WeightedAttentionAve (None, 1149)         1149        rnn_concat[0][0]                 
+__________________________________________________________________________________________________
+output (Dense)                  (None, 66)           75900       attention[0][0]                  
+==================================================================================================
+Total params: 1,532,211
+Trainable params: 1,532,211
+Non-trainable params: 0
+__________________________________________________________________________________________________
+None
