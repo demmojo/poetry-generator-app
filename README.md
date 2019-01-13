@@ -141,4 +141,3 @@ http://server_IP_or_domain:5000
 
 Which should show your web app page.
 
-## Part 2: Using your own custom pre-trained models (Under construction)
