@@ -120,9 +120,9 @@ After=network.target
 [Service]
 User=demmojo
 Group=www-data
-WorkingDirectory=/home/Projects/text-gen-flask/app
-Environment="PATH=/home/Projects/textgenenv/bin"
-ExecStart=/home/Projects/textgenenv/bin/uwsgi --ini app.ini
+WorkingDirectory=/home/demmojo/Projects/text-gen-flask/app
+Environment="PATH=/home/demmojo/Projects/textgenenv/bin"
+ExecStart=/home/demmojo/Projects/textgenenv/bin/uwsgi --ini app.ini
 
 [Install]
 WantedBy=multi-user.target
@@ -150,7 +150,7 @@ server {
     
     location / {
         include uwsgi_params;
-        uwsgi_pass unix:///home/Projects/text-gen-flask/app/app.sock;
+        uwsgi_pass unix:///home/demmojo/Projects/text-gen-flask/app/app.sock;
     }
 }
 ```
