@@ -177,7 +177,7 @@ sudo ufw allow 'Nginx Full'
 
 You can see a demo of the project here:
 ```
-http://nazim.mohamedabdulaziz.com
+https://nazim.mohamedabdulaziz.com
 ```
 
 
