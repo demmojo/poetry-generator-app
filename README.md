@@ -39,11 +39,13 @@ For Python 3:
 sudo pip3 install virtualenv
 ```
 
-Make a parent directory for our Flask project. 
-```mkdir ~/myproject```
+Clone the project using git. 
+```
+git clone https://github.com/demmojo/text-gen-flask/
+```
 Move into the directory after you create it:
 ```
-cd ~/myproject
+cd ~/text-gen-flask
 ```
 
 Create a virtual environment to store our Flask project's Python requirements by typing:
@@ -70,9 +72,9 @@ First test the Flask app while in the virtual environment by going to the app di
 python wsgi.py
 ```
 
-Visit your server's domain name or IP address followed by :5000 in your web browser:
+To visit the poetry generator page locally, go to the below link in your web browser:
 ```
-http://server_IP_or_domain:5000
+nazim.localhost:5000
 ```
 
 You should be able to see the html file given in the templates folder. You can now deactivate the virtual environment:
