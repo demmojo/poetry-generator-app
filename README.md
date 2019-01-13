@@ -175,10 +175,9 @@ Allow access to the Nginx server through the firewall:
 sudo ufw allow 'Nginx Full'
 ```
 
-You can now go to your own server's IP or domain name in your web browser:
+You can see a demo of the project here:
 ```
-http://server_IP_or_domain:5000
+http://nazim.mohamedabdulaziz.com
 ```
 
-Which should show your web app page.
 
