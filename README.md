@@ -95,8 +95,22 @@ First, create the service file:
 ```
 sudo nano /etc/systemd/system/text-gen.service
 ```
-Copy the text in the file found in the directory 'files to be moved' and paste it. Make sure to change any values specific to your own project and server/PC directory paths.
+Copy the below text and paste it. Make sure to change any values specific to your own project and server/PC directory paths.
+```
+[Unit]
+Description=uWSGI instance to serve myproject
+After=network.target
 
+[Service]
+User=demmojo
+Group=www-data
+WorkingDirectory=/home/projects/text-gen-flask/app
+Environment="PATH=/home/projects/textgenenv/bin"
+ExecStart=/home/projects/textgenenv/bin/uwsgi --ini app.ini
+
+[Install]
+WantedBy=multi-user.target
+```
 Make sure to start the service you have just created and allow it to run at startup:
 ```
 sudo systemctl start text-gen.service
