@@ -81,6 +81,8 @@ You should be able to see the html file given in the templates folder. You can n
 ```
 deactivate
 ```
+
+## Continue if you want to deploy to your own website!
 This guide is mainly for Linux based systems such as Ubuntu. However, you will be able to run the python script and host it using the Flask in-build development server simply by running 'main.py'.
 
 ### Edit uWSGI configuration file (app.ini)
@@ -123,14 +125,25 @@ We will configure Nginx so that it will pass web requests to the socket file in 
 
 First we will create a server block configuration file:
 ```
-sudo nano /etc/nginx/sites-available/text-gen
+sudo nano /etc/nginx/sites-available/nazim
 ```
 
-Copy the text in the 'text-gen.txt' file found in the directory 'files to be moved' and paste it. Make sure to change any values specific to your own project, server IP and server/PC directory paths.
+Copy the below text and paste it. Make sure to change any values specific to your own project, server IP and server/PC directory paths.
+```
+server {
+    listen 80;
+    server_name nazim.mohamedabdulaziz.com;
+    
+    location / {
+        include uwsgi_params;
+        uwsgi_pass unix:///home/projects/text-gen-flask/app/app.sock;
+    }
+}
+```
 
 To enable the Nginx server block configuration we've just created, link the file to the sites-enabled directory:
 ```
-sudo ln -s /etc/nginx/sites-available/text-gen /etc/nginx/sites-enabled
+sudo ln -s /etc/nginx/sites-available/nazim /etc/nginx/sites-enabled
 ```
 
 Test for syntax errors:
