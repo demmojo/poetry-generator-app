@@ -87,7 +87,21 @@ This guide is mainly for Linux based systems such as Ubuntu. However, you will b
 
 ### Edit uWSGI configuration file (app.ini)
 
-This will enable us to serve our application using uWSGI. You might need to change these values for your own projects.
+This will enable us to serve our application using uWSGI. You might need to change these values for your own project. It can be found in the 'app' directory. It's content is given below:
+
+```
+[uwsgi]
+module = wsgi:app
+
+master = true
+processes = 5
+
+socket = app.sock
+chmod-socket = 660
+vacuum = true
+
+die-on-term = true
+```
 
 ### Create systemd service unit file 
 This will allow Ubuntu to automatically start uWSGI and serve our Flask application whenever the server boots. 
