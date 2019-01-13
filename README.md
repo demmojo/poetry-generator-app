@@ -3,7 +3,7 @@ This guide will be divided into two parts. First, how to deploy a python applica
 
 You can use this guide as a way to serve web apps that generate predictions using pre-trained models on your server. The web app will be served using uWSGI application server and Nginx as the front-end reverse proxy.
 
-For a live demonstration head on to: https://nazim.mohamedabdulaziz.com/
+For a live demonstration head on to: https://shakespeare.mohamedabdulaziz.com/
 
 Linux users: Before starting this guide, you should have a non-root user configured on your server. This user needs to have sudo privileges so that it can perform administrative functions.
 
@@ -74,7 +74,7 @@ python wsgi.py
 
 To visit the poetry generator page locally, go to the below link in your web browser:
 ```
-nazim.localhost:5000
+shakespeare.localhost:5000
 ```
 
 You should be able to see the html file given in the templates folder. You can now deactivate the virtual environment:
@@ -139,14 +139,14 @@ We will configure Nginx so that it will pass web requests to the socket file in 
 
 First we will create a server block configuration file:
 ```
-sudo nano /etc/nginx/sites-available/nazim
+sudo nano /etc/nginx/sites-available/shakespeare
 ```
 
 Copy the below text and paste it. Make sure to change any values specific to your own project, server IP and server/PC directory paths.
 ```
 server {
     listen 80;
-    server_name nazim.mohamedabdulaziz.com;
+    server_name shakespeare.mohamedabdulaziz.com;
     
     location / {
         include uwsgi_params;
@@ -157,7 +157,7 @@ server {
 
 To enable the Nginx server block configuration we've just created, link the file to the sites-enabled directory:
 ```
-sudo ln -s /etc/nginx/sites-available/nazim /etc/nginx/sites-enabled
+sudo ln -s /etc/nginx/sites-available/shakespeare /etc/nginx/sites-enabled
 ```
 
 Test for syntax errors:
@@ -177,7 +177,7 @@ sudo ufw allow 'Nginx Full'
 
 You can see a demo of the project here:
 ```
-https://nazim.mohamedabdulaziz.com
+https://shakespeare.mohamedabdulaziz.com
 ```
 
 
