@@ -189,4 +189,19 @@ You can see a demo of the project here:
 https://shakespeare.mohamedabdulaziz.com
 ```
 
+### Common Issues
 
+1. If you get a 502 bad gateway error. Check the nginx log files using:
+
+```
+sudo tail -30 /var/log/nginx/error.log
+```
+
+If the app.sock connection failed due to a permission denied error this could be due to Nginx needing to have +x access on all directories leading to the site's root directory.
+
+Ensure you have +x on all of the directories in the path leading to the site's root. For example, if the site root is /home/username/project:
+```
+chmod +x /home/
+chmod +x /home/username
+chmod +x /home/username/project
+```
