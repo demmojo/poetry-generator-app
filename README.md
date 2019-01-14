@@ -138,7 +138,7 @@ WantedBy=multi-user.target
 ```
 Make sure to start the service you have just created and allow it to run at startup:
 ```
-sudo systemctl start poetry-generator-app.service
+sudo systemctl start poetry-generator.service
 sudo systemctl enable poetry-generator.service
 ```
 
