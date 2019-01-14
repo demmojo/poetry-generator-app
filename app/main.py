@@ -65,7 +65,7 @@ def load_model(subdomain):
 
 
 @app.route("/", methods=["GET", "POST"], subdomain='<subdomain>')
-def get_nazim(subdomain):
+def get_generated_text(subdomain):
     """Takes input from user and returns generated text."""
     print(subdomain)
     if request.method == 'POST':
