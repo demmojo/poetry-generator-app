@@ -84,6 +84,16 @@ deactivate
 ## Continue if you want to deploy to your own website!
 This guide is mainly for Linux based systems such as Ubuntu. However, you will be able to run the python script and host it using the Flask in-build development server simply by running 'main.py'.
 
+### Edit main.py
+
+Change the server name (for this project it is mohamedabdulaziz.com):
+
+```
+app.config["SERVER_NAME"] = "mohamedabdulaziz.com"
+```
+
+Note: The app will read the subdomain and then route it to the text generator of that subdomain. For example: shakespeare.mohamedabdulaziz.com or nazim.mohamedabdulaziz.com. See the code in main.py for 
+
 ### Edit uWSGI configuration file (app.ini)
 
 This will enable us to serve our application using uWSGI. You might need to change these values for your own project. It can be found in the 'app' directory. It's content is given below:
