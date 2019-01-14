@@ -9,7 +9,7 @@ from rnn.utils import *
 # initialize our Flask application and Keras model
 app = Flask(__name__, static_url_path='')
 model = None
-app.config["SERVER_NAME"] = "mohamedabdulaziz.com"
+app.config["SERVER_NAME"] = "localhost:5000"
 
 
 #  set current working directory for loading models
