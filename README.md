@@ -40,11 +40,11 @@ sudo pip3 install virtualenv
 
 Clone the project using git. 
 ```
-git clone https://github.com/demmojo/text-gen-flask/
+git clone https://github.com/demmojo/poetry-generator-app/
 ```
 Move into the directory after you create it:
 ```
-cd ~/text-gen-flask
+cd ~/poetry-generator-app
 ```
 
 Create a virtual environment to store our Flask project's Python requirements by typing:
@@ -118,7 +118,7 @@ This will allow Ubuntu to automatically start uWSGI and serve our Flask applicat
 First, create the service file:
 
 ```
-sudo nano /etc/systemd/system/text-gen.service
+sudo nano /etc/systemd/system/poetry-generator.service
 ```
 Copy the below text and paste it. Make sure to change any values specific to your own project and server/PC directory paths.
 ```
@@ -129,17 +129,17 @@ After=network.target
 [Service]
 User=demmojo
 Group=www-data
-WorkingDirectory=/home/demmojo/Projects/text-gen-flask/app
-Environment="PATH=/home/demmojo/Projects/text-gen-flask/textgenenv/bin"
-ExecStart=/home/demmojo/Projects/text-gen-flask/textgenenv/bin/uwsgi --ini app.ini
+WorkingDirectory=/home/demmojo/Projects/poetry-generator-app/app
+Environment="PATH=/home/demmojo/Projects/poetry-generator-app/textgenenv/bin"
+ExecStart=/home/demmojo/Projects/poetry-generator-app/textgenenv/bin/uwsgi --ini app.ini
 
 [Install]
 WantedBy=multi-user.target
 ```
 Make sure to start the service you have just created and allow it to run at startup:
 ```
-sudo systemctl start text-gen.service
-sudo systemctl enable text-gen.service
+sudo systemctl start poetry-generator-app.service
+sudo systemctl enable poetry-generator.service
 ```
 
 ### Configure Nginx and place in the following directory: /etc/nginx/sites-available
@@ -159,7 +159,7 @@ server {
     
     location / {
         include uwsgi_params;
-        uwsgi_pass unix:///home/demmojo/Projects/text-gen-flask/app/app.sock;
+        uwsgi_pass unix:///home/demmojo/Projects/poetry-generator-app/app/app.sock;
     }
 }
 ```
