@@ -1,6 +1,10 @@
 # poetry-generator-app
 
-poetry-generator-app generates poetry using pre-trained deep learning models. Shakespeare and Nazim Hikmet's works have both been modelled. This guide will show you how to run the app locally as well as deploy it to your own website. This can be a useful guide on how to deploy a python application using flask, uWSGI application server and Nginx as the front-end reverse proxy on a server. Also, you may use it as a template to serve your own web app with custom pre-trained models for prediction.
+poetry-generator-app generates poetry using pre-trained deep learning models. Shakespeare and Nazim Hikmet's works have both been modelled. This guide will show you how to run the app locally as well as deploy it to your own website.
+
+This can be a useful guide on how to deploy a python application using flask, uWSGI application server and Nginx as the front-end reverse proxy on a server.
+
+Also, you may use it as a template to serve your own web app with custom pre-trained models for prediction.
 
 For a live demonstration head on to: https://shakespeare.mohamedabdulaziz.com/
 
